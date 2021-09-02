@@ -22,3 +22,10 @@ Descrição básica do objetivo da issue.
 - [] Critério 1
 - [] Critério 2
 - [] Critério 3
+
+## Dependência
+
+Issues necessárias para a continuidade ou conclusão desta Issue
+
+- [] Issue necessária 1
+- [] Issue necessária 2
