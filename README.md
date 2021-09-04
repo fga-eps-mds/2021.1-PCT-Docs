@@ -1,9 +1,21 @@
 # 2021.1-PCT-Docs
+
 Repositório de documentos do projeto "Povos e Comunidades Tradicionais"
 
 PCTs é um projeto desenvolvido para facilitar a busca de documentos que possam contribuir para a proteção de povos e comunidades tradicionais. É um Sistema de busca que visa a praticidade na recuperação de informações relevantes a respeito desse assunto.
 
+## Repositórios do Projeto
+
+- [PCTs-Frontend](https://github.com/fga-eps-mds/2021.1-PCTs-Frontend): Repositório do frontend da aplicação
+- [PCTs-Documents-API](https://github.com/fga-eps-mds/2021.1-PCTs-Documents-API): Repositório da base de dados de informações/documentos extraídos das fontes
+- [PCTs-Users-API](https://github.com/fga-eps-mds/2021.1-PCTs-Users-API): Repositótio de microserviço de usuários
+- [PCTs-Scraper](https://github.com/fga-eps-mds/2021.1-PCTs-Users-Scraper): Repositório do extrator de dados (scraper)
+- [PCTs-ML-Training](https://github.com/fga-eps-mds/2021.1-PCTs-ML-Training): Repositório da construção de modelos de Machine Learning
+
+## Executar Documentação Localmente
+
 Installation
+
 ---------------
 Faça o checkout do projeto
  
