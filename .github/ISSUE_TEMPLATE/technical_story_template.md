@@ -22,6 +22,6 @@ Pode-se adicionar anexos, para melhor visualização do comportamento atual.
 
 ## Possíveis soluções
 
-- [] Tarefa 1
-- [] Tarefa 2
-- [] Tarefa 3
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
