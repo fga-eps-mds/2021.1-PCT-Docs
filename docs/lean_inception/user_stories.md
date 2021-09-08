@@ -83,4 +83,4 @@ Eu, como usuário, desejo ver o feed das últimas atualizações.
 | Data  | Versão | Descrição | Autor(es) |
 |-------|--------|-----------|-----------|
 |29/08|1.0|Adicionado Histórias de Usuário |Letícia Karla e Julio Litwin|
-|08/09|1.0|Adicionado Critérios de Aceitação |Julio Litwin|
+|08/09|1.1|Adicionado Critérios de Aceitação |Julio Litwin|
