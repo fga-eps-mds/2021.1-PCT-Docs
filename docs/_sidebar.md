@@ -14,6 +14,7 @@
   * [Documento de Visão](product/vision.md)
   * [Documento de Arquitetura](product/architecture.md)
   * [Protótipo](product/prototype.md)
+  * [Backlog](product/backlog.md)
 * Projeto
   * Sprints
     * [Sprint 0](project/sprints/sprint0.md)
