@@ -7,3 +7,4 @@ Imaginando e estipulando com base em nosso conhecimento e a partir do que sabemo
 
 | Data  | Versão | Descrição | Autor(es) |
 |-------|--------|-----------|-----------|
+|03/09|1.0|Sequenciador|Lude Ribeiro|
