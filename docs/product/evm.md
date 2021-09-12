@@ -6,6 +6,7 @@
 |-------|--------|-----------|-----------|
 |12/09|0.1|Criação do documento|[Lucas Gomes](@LGomees)|
 |12/09|0.2|Adição dos custos|[Lucas Gomes](@LGomees)|
+|12/09|0.3|Alteração de valores do custo|[Lucas Gomes](@LGomees)|
 
 ## Introdução
 
@@ -25,14 +26,14 @@ Para calcular o custo da mão de obra do projeto, podemos pensar em dois possív
 * Cenário sem Pandemia: Utilizando como base os valores do relatório de gestão da UnB de 2016, divulgado pelo Decanato de Planejamento e Orçamento da UnB, obtendo o valor do custo de um aluno do campus da UnB FGA, de R$ 26.040,00 ao ano. Com esse valor podemos chegar ao custo por hora de um aluno.
 * Cenário com Pandemia: Como a estrutura da universidade não está sendo utilizada por conta do distanciamento social, podemos levar em consideração o salário médio de um desenvolvedor júnior em Brasília (R$ 2.963,00) como base para o cálculo da hora do aluno ao desenvolver o projeto, sendo um valor de R$ 18,50 a hora. 
 
-Como no momento do desenvolvimento desse projeto ainda estamos em um cenário de distanciamento social, levaremos em consideração as seguintes variáveis:
+Analisando as necessidades da matéria, utilizaremos o cenário sem a pandemia, levaremos em consideração as seguintes variáveis:
 
-* O custo de um aluno por semestre na FGA com base no salário médio de um desenvolvedor júnior em Brasília é de R$ 2.963,00 x 4 meses, que equivale a R$ 11.852,00.
-* Com base no cronograma da disciplina de Engenharia de Produto de Software, no semestre 2021-1 o semestre possui 16 semanas, por tanto o custo por sprint (11.852,00/ 16 sprints) equivale a R$ 740,75 por sprint para cada aluno.
+* O custo de um aluno por semestre na FGA com base no valor anual é de R$ (26.040,00/12) x 4 meses, que equivale a R$ 8.680,00.
+* Com base no cronograma da disciplina de Engenharia de Produto de Software, no semestre 2021-1 o semestre possui 16 semanas, por tanto o custo por sprint (8.680,00/ 16 sprints) equivale a R$ 542,50 por sprint para cada aluno.
 
 |Número de Alunos| Custo total por sprint | Custo total para 16 sprints | 
 |:---:|:------------:|:-------------------:|
-|9| R$ 6.666,75 | R$ 106.668,00 |
+|9| R$ 4.882,50 | R$ 78.120,00 |
 
 
 ## Ferramentas
@@ -51,10 +52,10 @@ Como no momento do desenvolvimento desse projeto ainda estamos em um cenário de
 
 |Tipo de insumo|Custo|
 |:------------:|:---:|
-|Recursos humanos| R$ 106.668,00|
+|Recursos humanos| R$ 78.120,00|
 |Equipamentos e serviços| R$ 37.791,00|  
 |Ferramentas| R$ 0,00|  
-|Total|R$ 144.459,00|
+|Total|R$ 115.911,00|
 
 ## EVM Agile
 
