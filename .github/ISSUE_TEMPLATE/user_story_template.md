@@ -16,3 +16,11 @@ Descrição básica do objetivo da issue.
 - [ ] Critério 1
 - [ ] Critério 2
 - [ ] Critério 3
+
+## Issues relacionadas
+
+Issues que compõe a User Story em questão, para considerá-la como concluída.
+Essas issues são dividas em outros repositórios.
+
+- [ ] Issue necessária 1
+- [ ] Issue necessária 2
