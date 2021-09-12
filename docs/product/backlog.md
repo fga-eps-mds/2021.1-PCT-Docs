@@ -7,25 +7,38 @@
 | 29/08/2021 | 0.1    | Realização do Backlog com base nos requisitos elicitados. | Letícia Karla Araújo e Julio Litwin |
 | 12/09/2021 | 0.2    | Adição de contextualização do Backlog                     | Lucas Maciel                        |
 | 12/09/2021 | 0.3    | Migração do Backlog para uma planilha do Google Sheets    | Lucas Maciel                        |
+| 12/09/2021 | 0.4    | Detalhamento das US's e Épicos                            | Lucas Gomes (@LGomees)              |
 
 ## 1. Introdução
 
 O Backlog do produto consiste em uma lista de funcionalidades priorizadas, contendo uma descrição curta das funcionalidades desejadas para o produto de software.
 No Scrum, o Backlog do produto pode ser alterado a medida que o produto é desenvolvido, tanto para um aumento de escopo ou alterações de requisitos.
 
-### 1.1 Época (Epic)
+### 1.1 Épicos e Funcionalidades (Epic and Features)
 
-É uma história de usuário que ainda não foi detalhada, ou é muito longa, ou ainda está cheia de incertezas e, portanto, não pode ser transformada em um incremento de produto. Portanto, em um Backlog, uma época representa uma coleção de funcionalidades que são agrupadas logicamente a partir de um escopo definido.
+Épico: É uma história de usuário que ainda não foi detalhada, ou é muito longa, ou ainda está cheia de incertezas e, portanto, não pode ser transformada em um incremento de produto. Portanto, em um Backlog, um Épico representa uma coleção de funcionalidades que são agrupadas logicamente a partir de um escopo definido.
 
-### 1.2 Funcionalidade (Feature)
+Feature: É uma "funcionalidade" ou uma "característica".
 
-Uma feature, no backlog, representa um "pedaço" que compôe uma época.
 
-### 1.3 História de Usuário (User Story)
+| Épico | Feature | Descrição | US's relacionadas |
+|--|--|--|
+| EP01 - Pesquisa | EP1 - Pesquisa | Engloba as funcionalidades relacionadas à pesquisa principal do site | US01 e US02 |
+| EP01 - Pesquisa | EP2 - Visualização | Engloba as funcionalidades relacionadas à pesquisa principal do site | US03 e US04 |
+| EP01 - Pesquisa | EP3 - Cadastro | Engloba as funcionalidades relacionadas à pesquisa principal do site | US05 e US06 |
+| EP01 - Pesquisa | EP4 - Entrada | Engloba as funcionalidades relacionadas à pesquisa principal do site | US07 e US08 |
+| EP02 - Usuário  | EP5 - Armazenamento | Engloba as funcionalidades relacionadas à pesquisa principal do site | US09 |
+| EP02 - Usuário  | EP6 - Exportação | Engloba as funcionalidades relacionadas à pesquisa principal do site | US10 |
+| EP03 - Atualizações | EP7 - Feed de Atualizações | Engloba as funcionalidades relacionadas à pesquisa principal do site | US11 e US12 |
+| EP04 - Manter Dados | EP8 - Inserção de fontes de dados | Engloba as funcionalidades relacionadas à pesquisa principal do site | US13, US14, US15, US16, US17, US18 e US19 |
+| EP04 - Manter Dados | EP9 - Categorização dos dados | Engloba as funcionalidades relacionadas à pesquisa principal do site | US20 |
+
+
+### 1.2 História de Usuário (User Story)
 
 Uma história do usuário é um formato curto para escrever os requisitos para construir um produto. Deve ser inteligível para clientes e consumidores.
 
-### 1.4 Prioridade
+### 1.3 Prioridade
 
 A prioridade é um recurso importante para o backlog, com ele é possível definir qual deverá ser a ordem de construção das funcionalidades, de acordo com sua prioridade, levando em consideração quais são as funcionalidades mais importantes do produto.
 Normalmente, a prioridade é definida utilizando a técnia MoSCoW (Must have, Should have, Could have, Won't have (agora)).
