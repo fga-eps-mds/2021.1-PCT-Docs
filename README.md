@@ -18,21 +18,29 @@ Installation
 
 ---------------
 Faça o checkout do projeto
- 
-        $ git clone git@github.com:fga-eps-mds/2021.1-PCTs-Docs.git
+
+```shell
+git clone git@github.com:fga-eps-mds/2021.1-PCTs-Docs.git
+```
 
 Instale as bibliotecas de sistema necessárias para usar o docsfy
 (vide https://docsify.js.org/#/quickstart?id=preview-your-site)
 
 Instalando via npm:
 
-        $ npm i docsify-cli -g && docsify serve docs
+```shell
+npm i docsify-cli -g && docsify serve docs
+```
 
 Também é possível via Python usando:
 
-        $ python -m http.server 3000
+```shell
+python -m http.server 3000
+```
+
 Contributing
 -----------------
+
 1. Clone it.
 2. Create a branch (`git checkout -b new_docs`)
 3. Commit your changes (`git commit -am "Added new doc"`)
