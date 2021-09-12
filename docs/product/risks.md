@@ -8,8 +8,6 @@
 |12/09|0.2|Adição da Introdução, Métricas e Planilha de Riscos|[Lucas Gomes](@LGomees)|
 
 
-# Gerenciamento de Riscos
-
 ## Introdução
 
 Os riscos do projeto são empecilhos que podem acontecer e atrapalhar o andamento do desenvolvimento como o esperado. Para lidar com esses riscos, é necessário identificá-los para que a equipe, ciente de sua existência e impacto, possa trabalhar para contorná-los.
