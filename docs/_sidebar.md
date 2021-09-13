@@ -18,4 +18,8 @@
   * [Documento de Riscos](product/risks.md)
 * Projeto
   * Sprints
+    * [Modelo de Ata de Reunião](project/sprints/modelos.md)
+    * [Modelo de Abertura de Sprint](project/sprints/modeloAberturaSprint.md)
+    * [Modelo de Fechamento de Sprint](project/sprints/modeloFechamentoSprint.md)
+    * [Modelo de Sprints e Reuniões](project/sprints/modeloSprints&Reunioes.md) 
     * [Sprint 0](project/sprints/sprint0.md)
