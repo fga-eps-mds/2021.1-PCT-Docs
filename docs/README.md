@@ -1,9 +1,5 @@
 # 2021.1-PCT-Docs
 
-## Apresentação
-
-Repositório de documentos do projeto "Povos e Comunidades Tradicionais"
-
 ## Sobre o Projeto
 
 Projeto para reunir documentações relevantes para pesquisadores e ativistas que atuam auxiliando Povos e Comunidades Tradicionais.
