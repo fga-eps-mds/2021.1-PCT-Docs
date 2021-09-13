@@ -15,6 +15,7 @@
   * [Documento de Arquitetura](product/architecture.md)
   * [Protótipo](product/prototype.md)
   * [Backlog](product/backlog.md)
+  * [Documento de Riscos](product/risks.md)
 * Projeto
   * Sprints
     * [Sprint 0](project/sprints/sprint0.md)

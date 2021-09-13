@@ -62,5 +62,6 @@ Os riscos são pontuados pela equipe em relação à **Probabilidade** e **Impac
 
 Com essas informações, identificamos se a equipe está lidando com os riscos corretamente, verificando se os valores dos riscos estão diminuindo individualmente.
 
-Para ver os detalhes de cada risco e os gráficos individuais, acesse a [planilha de riscos](https://docs.google.com/spreadsheets/d/1PeMe8O01NzTKntXTqYG5cAY6mAcRmHRTNLmeWfMGgmQ/edit?usp=sharing).
+Para ver os detalhes de cada risco e os gráficos individuais, você pode visualizar a tabela abaixo ou acessar a [planilha de riscos](https://docs.google.com/spreadsheets/d/1PeMe8O01NzTKntXTqYG5cAY6mAcRmHRTNLmeWfMGgmQ/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAWwaBL3y-J0q4ZAxOQWwvt7WwLh3CS4J42jmzEdsIWbxyTx8asOGxNoHTC9GeylOZ80VTncH5x4DH/pubhtml?widget=false&amp;headers=false&gridlines=false&chrome=true"width="670"height="1000"frameborder="1"></iframe>
