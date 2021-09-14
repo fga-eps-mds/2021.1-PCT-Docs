@@ -8,7 +8,8 @@
 | 12/09/2021 | 0.2    | Adição de contextualização do Backlog                     | Lucas Maciel                        |
 | 12/09/2021 | 0.3    | Migração do Backlog para uma planilha do Google Sheets    | Lucas Maciel                        |
 | 12/09/2021 | 0.4    | Detalhamento das US's e Épicos                            | Lucas Gomes                         |
-| 13/09/2021 | 0.5    | Adicionado os critérios de aceitação                      | Julio Litwin                        |
+| 13/09/2021 | 0.5    | Adicionando os critérios de aceitação                      | Julio Litwin                        |
+| 13/09/2021 | 1.0    | Adicionando novas US's e alterando critérios de aceitação  | Lucas Gomes                        |
 
 ## 1. Introdução
 
@@ -30,7 +31,7 @@ Feature: É uma "funcionalidade" ou uma "característica".
 | EP01 - Pesquisa | F04 - Exportação  | [US06](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us06) |
 | EP02 - Usuário  | F05 - Cadastro  | [US07](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us07) e [US08](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us08) |
 | EP02 - Usuário  | F06 - Entrada | [US09](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us09) e [US10](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us10) |
-| EP03 - Atualizações | F07 - Feed de Atualizações  | [US11]((https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us11)) e [US12]((https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us12)) |
+| EP03 - Atualizações | F07 - Feed de Atualizações  | [US11](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us11) e [US12](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us12) |
 | EP04 - Manter Dados | F08 - Inserção de fontes de dados  | [US13](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us13), [US14](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us14), [US15](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us15), [US16](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us16), [US17](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us17), [US18](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us18) e [US19](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us19), [US20](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us20) |
 | EP04 - Manter Dados | F09 - Categorização dos dados  | [US21](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us21) |
 
