@@ -15,7 +15,7 @@ Dessa forma, a qualidade de um projeto de software é fundamental e deve ocorrer
 Inicialmente foi proposto no processo de qualidade a divisão em dois principais âmbitos: Produto e Artefatos.
 A fim de garantir a qualidade dos artefatos desenvolvidos as seguintes de atividades:
 
-## ![](https://i.imgur.com/YLyh5Dw.png)
+![](https://i.imgur.com/YLyh5Dw.png)
 
 ### Desenvolvimento dos Artefatos
 Consiste na elaboração dos Planos de Gerenciamento, feitos pela equipe de gestão, bem como, Documento de Visão, Documento de Arquitetura e os demais artefatos elaborados pela equipe de desenvolvimento.
