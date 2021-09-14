@@ -16,6 +16,7 @@
   * [Protótipo](product/prototype.md)
   * [Backlog](product/backlog.md)
   * [Documento de Riscos](product/risks.md)
+  * [Documento de Planejamento de Qualidade](project/quality.md)
 * Projeto
   * Sprints
     * [Modelo de Ata de Reunião](project/sprints/modeloReuniao.md)
