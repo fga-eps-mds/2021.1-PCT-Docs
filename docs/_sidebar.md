@@ -19,6 +19,7 @@
   * [Documento de Planejamento de Qualidade](project/quality.md)
   * [Planejamento](product/planning.md)
   * [Roadmap](product/roadmap.md)
+  * [EVM](product/evm.md)
 * Projeto
   * Quadros de integrantes
     * [Documento dos quadros de integrantes](project/Quadros/quadros.md)

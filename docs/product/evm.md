@@ -61,7 +61,9 @@ Analisando as necessidades da matéria, utilizaremos o cenário sem a pandemia, 
 
 O EVM Agile possui particularidades em relação ao EVM tradicional, contendo métricas particulares à metodologia como histórias de usuário, sprints, pontos de histórias de usuário e etc.
 
-Para ter acesso a planilha, clique [aqui](https://docs.google.com/spreadsheets/d/1BeQMp6tplsHfuIUWcC5x4k6TzeLXBIrHd1GruboG2zg/edit#gid=1444792691).
+Abaixo você pode visualizar a planilha ou para ter acesso a planilha, clique [aqui](https://docs.google.com/spreadsheets/d/1BeQMp6tplsHfuIUWcC5x4k6TzeLXBIrHd1GruboG2zg/edit#gid=1444792691).
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK4Qt8LSDMh3zq-bn7zkvA9yutSqqCmThWLFwQ58q38jq8z6E4PTRmQSGjzoz4xwRHg95C5uEu6sAo/pubhtml?widget=true&amp;headers=false&chrome=true"width="670"height="850"frameborder="0"></iframe>
 
 ## Referências
 
