@@ -19,9 +19,12 @@
   * [Documento de Planejamento de Qualidade](project/quality.md)
   * [Planejamento](product/planning.md)
 * Projeto
+  * Quadros de integrantes
+    * [Documento dos quadros de integrantes](project/Quadros/quadros.md)
+  * Modelos de Atas
+    * [Modelo de Ata de Reunião](project/ModelosDeAtas/modeloReuniao.md)
+    * [Modelo de Abertura de Sprint](project/ModelosDeAtas/modeloAberturaSprint.md)
+    * [Modelo de Fechamento de Sprint](project/ModelosDeAtas/modeloFechamentoSprint.md)
+    * [Modelo de Sprints e Reuniões](project/ModelosDeAtas/modeloSprints&Reunioes.md)
   * Sprints
-    * [Modelo de Ata de Reunião](project/sprints/modeloReuniao.md)
-    * [Modelo de Abertura de Sprint](project/sprints/modeloAberturaSprint.md)
-    * [Modelo de Fechamento de Sprint](project/sprints/modeloFechamentoSprint.md)
-    * [Modelo de Sprints e Reuniões](project/sprints/modeloSprints&Reunioes.md) 
     * [Sprint 0](project/sprints/sprint0.md)
