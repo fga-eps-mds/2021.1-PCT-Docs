@@ -24,15 +24,15 @@ Feature: É uma "funcionalidade" ou uma "característica".
 
 | Épico | Feature | Descrição | US's relacionadas |
 |--|--|--|--|
-| EP01 - Pesquisa | F01 - Pesquisa | Engloba as funcionalidades relacionadas à pesquisa principal do site | US01 e US02 |
-| EP01 - Pesquisa | F02 - Visualização |  | US03 e US04 |
-| EP01 - Pesquisa | F03 - Cadastro |  | US05 e US06 |
-| EP01 - Pesquisa | F04 - Entrada |  | US07 e US08 |
-| EP02 - Usuário  | F05 - Armazenamento |  | US09 |
-| EP02 - Usuário  | F06 - Exportação | | US10 |
-| EP03 - Atualizações | F07 - Feed de Atualizações |  | US11 e US12 |
-| EP04 - Manter Dados | F08 - Inserção de fontes de dados |  | US13, US14, US15, US16, US17, US18 e US19 |
-| EP04 - Manter Dados | F09 - Categorização dos dados |  | US20 |
+| EP01 - Pesquisa | F01 - Pesquisa Avançada | [US01](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us01), [US02](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us02), [US22](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us22)  |
+| EP01 - Pesquisa | F02 - Visualização  | [US03](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us03), [US04](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us04) e [US23](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us23) |
+| EP01 - Pesquisa | F03 - Armazenamento  | [US05](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us05) e [US24](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us24) |
+| EP01 - Pesquisa | F04 - Exportação  | [US06](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us06) |
+| EP02 - Usuário  | F05 - Cadastro  | [US07](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us07) e [US08](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us08) |
+| EP02 - Usuário  | F06 - Entrada | [US09](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us09) e [US10](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us10) |
+| EP03 - Atualizações | F07 - Feed de Atualizações  | [US11]((https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us11)) e [US12]((https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us12)) |
+| EP04 - Manter Dados | F08 - Inserção de fontes de dados  | [US13](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us13), [US14](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us14), [US15](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us15), [US16](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us16), [US17](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us17), [US18](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us18) e [US19](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us19), [US20](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us20) |
+| EP04 - Manter Dados | F09 - Categorização dos dados  | [US21](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us21) |
 
 
 ### 1.2 História de Usuário (User Story)
@@ -81,7 +81,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 
 | **Épico** |EP01 - Pesquisa |
 | ---: | :------- |
-| **Feature** |F05 - Armazenamento |
+| **Feature** |F03 - Armazenamento |
 | **Descrição** | Eu, como usuário, desejo salvar minha pesquisa no meu perfil. |
 | **Critérios de aceitação** | - Deve mostrar ícone para salvar a pesquisa <br> - Estar logado na conta do perfil |
 
@@ -90,7 +90,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 
 | **Épico** |EP01 - Pesquisa |
 | ---: | :------- |
-| **Feature** |F06 - Exportação |
+| **Feature** |F04 - Exportação |
 | **Descrição** | Eu, como usuário, desejo exportar a minha pesquisa salva. |
 | **Critérios de aceitação** | - Deve mostrar ícone para exportar a pesquisa <br> - Estar logado na conta do perfil <br> - Ter a pesquisa já salva no perfil. |
 
@@ -99,36 +99,36 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 
 | **Épico** |EP02 - Usuário	 |
 | ---: | :------- |
-| **Feature** |F03 - Cadastro |
+| **Feature** |F05 - Cadastro |
 | **Descrição** | Eu, como usuário, desejo fazer o meu cadastro no site. |
-| **Critérios de aceitação** | - Deve mostrar a opção de cadastro <br>- Necessário o usuário ser autorizado para realização do cadastro  |
+| **Critérios de aceitação** | - Deve mostrar a opção de cadastro <br> - Fazer verificação via email |
 
 #### US08
 ##### Editar cadastro.
 
 | **Épico** |EP02 - Usuário |
 | ---: | :------- |
-| **Feature** |F03 - Cadastro |
+| **Feature** |F05 - Cadastro |
 | **Descrição** | Eu, como usuário, desejo editar o meu cadastro. |
-| **Critérios de aceitação** | - Precisa estar logado <br> - Deve mostrar campo para poder editar <br> - Verificar se os nomes dados são válidos  |
+| **Critérios de aceitação** | - Mostrar informações atuais <br> - Confirmar edição dos dados através da senha do usuário  |
 
 #### US09
 ##### Fazer login.
 
 | **Épico** |EP02 - Usuário |
 | ---: | :------- |
-| **Feature** |F04 - Entrada |
+| **Feature** |F06 - Entrada |
 | **Descrição** | Eu, como usuário, desejo fazer o meu login no site. |
-| **Critérios de aceitação** | - Deve possuir campos para preencher os dados <br> - Validar os dados de acesso <br> - Disponibilizar acesso ao usuário  |
+| **Critérios de aceitação** | - Deve possuir campos para preencher os dados <br> - Validar os dados de acesso <br> - Disponibilizar acesso às páginas  |
 
 #### US10
 ##### Realizar logout.
 
 | **Épico** |EP02 - Usuário |
 | ---: | :------- |
-| **Feature** |F04 - Entrada |
+| **Feature** |F06 - Entrada |
 | **Descrição** | Eu, como usuário, desejo realizar logout no site. |
-| **Critérios de aceitação** | - Deve estar logado <br> - Deve havar ícone para o logout <br> - Retornar a tela de login <br> - Não permitir o usuário acessar as funcionalidades do aplicativo na qual exigem estarem logado  |
+| **Critérios de aceitação** | - Deve haver ícone para o logout <br> - Retornar a tela de login <br> - Não permitir o usuário acessar as funcionalidades do aplicativo na qual exigem estarem logado  |
 
 #### US11
 ##### Ver o feed das últimas atualizações de informações.
@@ -137,7 +137,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F07 - Feed de Atualização |
 | **Descrição** | Eu, como usuário, desejo ver o feed das últimas atualizações. |
-| **Critérios de aceitação** | - Devem ser apresentadas as últimas notícias <br> - Toda notícia deve quando clicada, encaminhar para a sua fonte <br> - As notícias devem serem rotativas  |
+| **Critérios de aceitação** | - Devem ser apresentadas as últimas notícias inseridas no banco <br> - Toda notícia deve quando clicada, encaminhar para a sua fonte <br> - As notícias devem serem rotativas  |
 
 #### US12
 ##### Ver o feed das últimas atualizações da nova cartografia social.
@@ -146,7 +146,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F07 - Feed de Atualização |
 | **Descrição** | Eu, como usuário, desejo ver as últimas atualizações do site da nova cartografia social. |
-| **Critérios de aceitação** | - Devem ser apresentadas as últimas notícias das novas cartografia social <br> - Toda notícia deve quando clicada, encaminhar para a sua fonte <br> - As notícias devem serem rotativas  |
+| **Critérios de aceitação** | - Devem ser apresentadas as últimas notícias do site da nova cartografia social <br> - Toda notícia deve quando clicada, encaminhar para a sua fonte <br> - As notícias devem serem rotativas  |
 
 #### US13
 ##### Adicionar  novas fontes de dados pelo próprio site.
@@ -155,7 +155,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como usuário privilegiado, gostaria de poder adicionar novas fontes de dados pelo próprio site, criando um novo crawler. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão para adição de novas fontes de dados <br> - O site deve ter um campo para adição das novas fontes  |
+| **Critérios de aceitação** | - |
 
 #### US14
 ##### Adicionar  novas palavras-chaves para melhoramento do modelo de machine learning.
@@ -164,7 +164,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como usuário privilegiado, gostaria de adicionar palavras-chave para melhorar o modelo de machine learning, auxiliando a filtragem de notícias nos sites. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão para adição de novas fontes de dados <br> - O site deve ter um campo para adição e edição de filtros de palavras-chaves |
+| **Critérios de aceitação** | -  |
 
 #### US15
 ##### Realizar a 1ª alimentação da base da dados.
@@ -173,7 +173,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 1ª alimentação da base de dados. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão de administrador <br> - Mostrar área para alimentação de dados  |
+| **Critérios de aceitação** | -  |
 
 #### US16
 ##### Realizar a 2ª alimentação da base da dados.
@@ -182,7 +182,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 2ª alimentação da base de dados. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão de administrador <br> - Mostrar área para alimentação de dados  |
+| **Critérios de aceitação** | -  |
 
 #### US17
 ##### Realizar a 3ª alimentação da base da dados.
@@ -191,7 +191,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 3ª alimentação da base de dados. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão de administrador <br> - Mostrar área para alimentação de dados  |
+| **Critérios de aceitação** | -  |
 
 #### US18
 ##### Realizar a 4ª alimentação da base da dados.
@@ -200,7 +200,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão de administrador <br> - Mostrar área para alimentação de dados  |
+| **Critérios de aceitação** | -   |
 
 #### US19
 ##### Realizar a 5ª alimentação da base da dados.
@@ -209,16 +209,53 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 5ª alimentação da base de dados. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão de administrador <br> - Mostrar área para alimentação de dados  |
+| **Critérios de aceitação** | -  |
 
 #### US20
-##### Realizar a 5ª alimentação da base da dados.
+##### Realizar agendamento do crawler da 1ª alimentação da base da dados.
 
 | **Épico** |EP04 - Manter Dados|
 | ---: | :------- |
 | **Feature** |F09 - Categorização dos dados |
-| **Descrição** | Eu, como administrador, gostaria de utilizar técnicas de machine learning para realizar a categorização dos dados que alimentarão a base. |
-| **Critérios de aceitação** | - O usuário deve estar logado <br> - O usuário deve ter permissão de administrador <br> - Mostrar área para alimentação de dados  |
+| **Descrição** | Eu, como administrador, gostaria de realizar o agendamento do crawler da 1ª alimentação da base de dados |
+| **Critérios de aceitação** | - Definir periodicidade <br> - Implementar agendamento do crawler <br> - Realizar testes |
+
+#### US21
+##### Categorização dos Dados.
+
+| **Épico** |EP04 - Manter Dados|
+| ---: | :------- |
+| **Feature** |F09 - Categorização dos dados |
+| **Descrição** | Eu, como administrador, gostaria de utilizar técnicas de machine learning para realizar a categorização dos dados que alimentarão a base |
+| **Critérios de aceitação** | - Definir categorias <br> -  |
+
+#### US22
+##### Aba de Busca Avançada.
+
+| **Épico** |EP01 - Pesquisa|
+| ---: | :------- |
+| **Feature** |F01 - Pesquisa Avançada |
+| **Descrição** | Eu, como usuário, desejo acessar uma aba específca para busca avançada |
+| **Critérios de aceitação** |   |
+
+#### US23
+##### Aba de Sobre Nós.
+
+| **Épico** |EP01 - Pesquisa|
+| ---: | :------- |
+| **Feature** | F02 - Visualização |
+| **Descrição** | Eu, como usuário, desejo acessar uma aba sobre as informações do projeto Nova Cartografia Social |
+| **Critérios de aceitação** | - Aba na navbar <br> - Detalhamento sobre o projeto Nova Cartografia Social <br> - Detalhamento sobre a equipe de desenvolvimento e clientes  |
+
+#### US24
+##### Lista de Pesquisas Salvas.
+
+| **Épico** |EP01 - Pesquisa|
+| ---: | :------- |
+| **Feature** | F03 - Armazenamento |
+| **Descrição** | Eu, como usuário, desejo acessar as pesquisas salvas no meu perfil. |
+| **Critérios de aceitação** | - Mostrar a lista de pesquisas salvas <br> - Mostrar botão para exportação da lista <br> - Reabrir pesquisa salva  |
+
 
 ### 1.3 Prioridade
 
