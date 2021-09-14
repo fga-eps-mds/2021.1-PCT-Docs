@@ -13,7 +13,8 @@
 |12/09/2021|0.8| Visão Lógica |Caio Fernandes|
 |12/09/2021|0.9| Representação Arquitetural (Novos Diagramas)| Miguel Alves|
 |12/09/2021|0.10| Visão de Casos de Uso | Lucas Silva|
-|12/09/2021|1.0| Documento de Arquitetura |Lude Ribeiro|
+|13/09/2021|0.11| Evolução da Modelagem de BD | Caio Fernandes|
+|13/09/2021|1.0| Adição Pipeline DevOps | Lucas Maciel |
 
 ## 1. Introdução
 ### 1.1 Finalidade
@@ -34,17 +35,6 @@ O projeto PCTs consiste em uma aplicação, consumida na forma de um site, com o
 |Microsserviços|Construção de aplicações as dividindo em serviços independentes. Estes serviços se comunicam entre si usando APIs.|
 |Crawler/Scrapper|Programas usados pelos mecanismos de busca para explorar a internet de maneira automática e fazer download de conteúdo web.|
 |Machine Learning (ML)|Aprendizado de Máquina|
-
-### 1.4 Referências
-* RASCHKA, Sebastian; MIRJALILI, Vahid. Python Machine Learning: machine learning and deep learning with python, scikit-learn, and tensorflow 2, third edition. 3. ed. Shangai: International Journal Of Knowledge-Based Organizations, 2021. 770 p.
-
-* KORPELA, J.. Lurching toward Babel: html, css and xml. Computer, [S.L.], v. 31, n. 7, p. 104-106, jul. 1998. Institute of Electrical and Electronics Engineers (IEEE). http://dx.doi.org/10.1109/2.689682. Disponível em: https://ieeexplore-ieee-org.ez54.periodicos.capes.gov.br/stamp/stamp.jsp?tp=&arnumber=689682. Acesso em: 01 set. 2021
-
-* D. Mazinanian and N. Tsantalis, "CSSDev: Refactoring Duplication in Cascading Style Sheets," 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C), 2017, pp. 63-66, doi: 10.1109/ICSE-C.2017.7.
-
-* R. Petrasch, "Model-based engineering for microservice architectures using Enterprise Integration Patterns for inter-service communication," 2017 14th International Joint Conference on Computer Science and Software Engineering (JCSSE), 2017, pp. 1-4, doi: 10.1109/JCSSE.2017.8025912.
-
-* L. Wei-jiang, R. Hua-suo, H. Kun and L. Jia, "A New Algorithm of Blog-Oriented Crawler," 2009 International Forum on Computer Science-Technology and Applications, 2009, pp. 428-431, doi: 10.1109/IFCSTA.2009.110.
 
 
 ## 2. Representação Arquitetural
@@ -154,12 +144,31 @@ E a modelagem para o serviço de Documentos irá simplesmentes salvar cada infor
 #### 5.2.1 Users-API
 ![DERUsersAPI](https://i.imgur.com/AS7uG6N.png)
 #### 5.2.2 Documents-API
-![DERDocumentsAPI](https://i.imgur.com/mpcgnJI.png)
+![DERDocumentsAPI](https://i.imgur.com/fdvPLrk.png)
 ### 5.3 Diagrama Lógico
 #### 5.3.1 Users-API
 ![LogicalUsersAPI](https://i.imgur.com/iehn7t0.png)
 #### 5.3.2 Documents-API
-![LogicalDocumentsAPI](https://i.imgur.com/fUDKM0i.png)
+![LogicalDocumentsAPI](https://i.imgur.com/50OsAzZ.png)
 
-## 6. Pipeline
- https://dulce-work-schedule.github.io/especificacao/arquitetura.html
+
+## 6. Pipeline DevOps
+
+Um pipeline de DevOps consiste em um conjunto de processos e ferramentas automatizados que permitem que desenvolvedores e profissionais de operações colaborem na construção e implantação de código para diferentes ambientes e estágios da produção de um software.
+
+![PipelineDevOps](https://i.imgur.com/OTI0REE.png)
+
+## 7. Referências
+* RASCHKA, Sebastian; MIRJALILI, Vahid. Python Machine Learning: machine learning and deep learning with python, scikit-learn, and tensorflow 2, third edition. 3. ed. Shangai: International Journal Of Knowledge-Based Organizations, 2021. 770 p.
+
+* KORPELA, J.. Lurching toward Babel: html, css and xml. Computer, [S.L.], v. 31, n. 7, p. 104-106, jul. 1998. Institute of Electrical and Electronics Engineers (IEEE). http://dx.doi.org/10.1109/2.689682. Disponível em: https://ieeexplore-ieee-org.ez54.periodicos.capes.gov.br/stamp/stamp.jsp?tp=&arnumber=689682. Acesso em: 01 set. 2021
+
+* D. Mazinanian and N. Tsantalis, "CSSDev: Refactoring Duplication in Cascading Style Sheets," 2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C), 2017, pp. 63-66, doi: 10.1109/ICSE-C.2017.7.
+
+* R. Petrasch, "Model-based engineering for microservice architectures using Enterprise Integration Patterns for inter-service communication," 2017 14th International Joint Conference on Computer Science and Software Engineering (JCSSE), 2017, pp. 1-4, doi: 10.1109/JCSSE.2017.8025912.
+
+* L. Wei-jiang, R. Hua-suo, H. Kun and L. Jia, "A New Algorithm of Blog-Oriented Crawler," 2009 International Forum on Computer Science-Technology and Applications, 2009, pp. 428-431, doi: 10.1109/IFCSTA.2009.110.
+
+* [DevOps Pipeline](https://www.atlassian.com/devops/devops-tools/devops-pipeline). Atlassian. Acesso em: 13 set. 2021
+
+* [Projeto dulce](https://dulce-work-schedule.github.io/especificacao/arquitetura.html). Acesso em: 13 set.2021
