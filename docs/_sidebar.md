@@ -1,5 +1,5 @@
 * [Home](/)
-* [Lean Inception](lean_inception/introduction)
+* Lean Inception
   * [Introdução](lean_inception/introduction)
   * [Visão do produto](lean_inception/product_vision.md)
   * [Produto é/não é, faz/não faz](lean_inception/product_is.md)
