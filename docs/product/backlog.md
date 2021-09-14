@@ -23,8 +23,8 @@ No Scrum, o Backlog do produto pode ser alterado a medida que o produto é desen
 Feature: É uma "funcionalidade" ou uma "característica".
 
 
-| Épico | Feature | Descrição | US's relacionadas |
-|--|--|--|--|
+| Épico | Feature | US's relacionadas |
+|--|--|--|
 | EP01 - Pesquisa | F01 - Pesquisa Avançada | [US01](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us01), [US02](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us02), [US22](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us22)  |
 | EP01 - Pesquisa | F02 - Visualização  | [US03](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us03), [US04](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us04) e [US23](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us23) |
 | EP01 - Pesquisa | F03 - Armazenamento  | [US05](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us05) e [US24](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us24) |
