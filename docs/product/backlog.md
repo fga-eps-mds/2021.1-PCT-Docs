@@ -156,12 +156,7 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | ---: | :------- |
 | **Feature** |F08 - Inserção de fontes de dados |
 | **Descrição** | Eu, como usuário privilegiado, gostaria de poder adicionar novas fontes de dados pelo próprio site, criando um novo crawler. |
-| **Critérios de aceitação** |
-- O scraper deve ser capaz de coletar o corpo (HTML) de páginas da 3 primeiras fontes (TCU, Senado, Diário Oficial)<br>
-- As páginas devem ser minimamente filtradas a partir das palavras-chave (keywords)<br>
-- Os dados brutos devem ser salvos na base de dados do serviço de Scraper<br>
-- O fomulário de cadastro no frontend deve estar funcionando e deve ser intuitivo<br>
-- Deve ser possível realizar cadastro e atualização das fontes de dados<br> |
+| **Critérios de aceitação** | - O scraper deve ser capaz de coletar o corpo (HTML) de páginas da 3 primeiras fontes (TCU, Senado, Diário Oficial)<br> - As páginas devem ser minimamente filtradas a partir das palavras-chave (keywords)<br> - Os dados brutos devem ser salvos na base de dados do serviço de Scraper<br> - O fomulário de cadastro no frontend deve estar funcionando e deve ser intuitivo<br> - Deve ser possível realizar cadastro e atualização das fontes de dados<br> |
 
 #### US14
 ##### Adicionar  novas palavras-chaves para melhoramento do modelo de machine learning.
