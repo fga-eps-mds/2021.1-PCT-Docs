@@ -1,4 +1,5 @@
-#Sprint Planning 0
+# Sprint Planning 0
+
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 13/09/2021 |  1.0   | Redação da ata da equipe | Miguel Alves|
