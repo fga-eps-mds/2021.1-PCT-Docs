@@ -25,16 +25,15 @@ Feature: É uma "funcionalidade" ou uma "característica".
 
 | Épico | Feature | US's relacionadas |
 |--|--|--|
-| EP01 - Pesquisa | F01 - Pesquisa Avançada | [US01](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us01), [US02](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us02), [US22](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us22)  |
-| EP01 - Pesquisa | F02 - Visualização  | [US03](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us03), [US04](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us04) e [US23](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us23) |
-| EP01 - Pesquisa | F03 - Armazenamento  | [US05](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us05) e [US24](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us24) |
-| EP01 - Pesquisa | F04 - Exportação  | [US06](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us06) |
-| EP02 - Usuário  | F05 - Cadastro  | [US07](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us07) e [US08](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us08) |
-| EP02 - Usuário  | F06 - Entrada | [US09](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us09) e [US10](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us10) |
-| EP03 - Atualizações | F07 - Feed de Atualizações  | [US11](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us11) e [US12](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us12) |
-| EP04 - Manter Dados | F08 - Inserção de fontes de dados  | [US13](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us13), [US14](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us14), [US15](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us15), [US16](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us16), [US17](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us17), [US18](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us18) e [US19](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us19), [US20](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us20) |
-| EP04 - Manter Dados | F09 - Categorização dos dados  | [US21](https://github.com/fga-eps-mds/2021.1-PCTs-Docs/blob/main/docs/product/backlog.md#us21) |
-
+| EP01 - Pesquisa | F01 - Pesquisa Avançada | [US01](#us01), [US02](#us02), [US22](#us22)  |
+| EP01 - Pesquisa | F02 - Visualização  | [US03](#us03), [US04](#us04) e [US23](#us23) |
+| EP01 - Pesquisa | F03 - Armazenamento  | [US05](#us05) e [US24](#us24) |
+| EP01 - Pesquisa | F04 - Exportação  | [US06](#us06) |
+| EP02 - Usuário  | F05 - Cadastro  | [US07](#us07) e [US08](#us08) |
+| EP02 - Usuário  | F06 - Entrada | [US09](#us09) e [US10](#us10) |
+| EP03 - Atualizações | F07 - Feed de Atualizações  | [US11](#us11) e [US12](#us12) |
+| EP04 - Manter Dados | F08 - Inserção de fontes de dados  | [US13](#us13), [US14](#us14), [US15](#us15), [US16](#us16), [US17](#us17), [US18](#us18) e [US19](#us19), [US20](#us20) |
+| EP04 - Manter Dados | F09 - Categorização dos dados  | [US21](#us21) |
 
 ### 1.2 História de Usuário (User Story)
 
