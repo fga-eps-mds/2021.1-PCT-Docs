@@ -6,7 +6,7 @@
 
 Os documentos de Fechamento de sprint deverão seguir o seguinte padrão:
 
-# Fechamento da Sprint 00
+# Fechamento da Sprint 01
 
 **Data**: 20 de Setembro de 2021
 

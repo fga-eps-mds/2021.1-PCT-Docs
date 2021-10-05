@@ -27,5 +27,5 @@ Dessa forma, eles ficarão organizados de acordo com a data, em ordem crescente.
 [Modelo de Reunião](/docs/SprintsAndMeetings/MeetingModel.md)
 
 ## Referências
-- Aix - Abertura Sprint 0, disponível em: <https://fga-eps-mds.github.io/2019.1-Aix/sprint/2019/03/27/abertura-sprint-0/>. Acesso em 11 de set. de 2020.
+- Aix - Abertura Sprint 1, disponível em: <https://fga-eps-mds.github.io/2019.1-Aix/sprint/2019/03/27/abertura-sprint-0/>. Acesso em 11 de set. de 2020.
 

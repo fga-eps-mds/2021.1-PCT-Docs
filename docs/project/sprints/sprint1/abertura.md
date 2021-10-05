@@ -2,83 +2,87 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 20/09/2020 |  1.0   | Redação da ata de abertura | Lucas Silva |
+| 13/09/2021 |  1.0   | Redação da ata da equipe | Miguel Alves|
+
 
 # Abertura da Sprint 01
+**Data**: 13 de Setembro de 2021
 
-**Data**: 20 de Setembro de 2021
-
-**Redigida por**: ```Lucas Silva```
+**Redigida por**: `Miguel Alves`
 
 **Participantes**: 
 * ```Miguel Alves```
 * ```Lucas Gomes de Oliveira```
 * ```Letícia Araújo```
-* ```Lude Yuri ```
+* ```Caio Fernandes```
 * ```Guilherme Mendes```
 * ```Lucas Gomes Silva```
-* ```Lucas Maciel Aguiar```
 * ```Julio Litwin```
-* ```Caio Fernandes```
 
 ## Notas pré reunião
-> 
+Lude Ribeiro e Lucas Maciel avisaram que não poderiam participar do planning por compromissos pessoais;
 
 ## Planning
 ### Tomada de Decisões
 > Definição dos papéis de PO e Scrum Master para a Sprint.
->* PO: Julio Litwin
->* Scrum Master: Lucas Gomes Silva
+>* PO: Miguel Alves
+>* Scrum Master: Lucas Gomes de Oliveira
 
-> A US15 foi priorizada em relação a US13 devido a importancia para o MVP, se for identificado dificuldade nas dailys, um desenvolvedor vai ser remanejado para esta issue.
+> Cabe ao PO e Scrum Master da Sprint levantarem o Burndown de riscos referente àquela semana.;
 
-> Desenvolvimento da API de documentos para o front.
+> As duplas responsáveis pela realização da issue deverão cadastrá-las no repositório de acordo com o planejamento do Roadmap/Gant;
 
-> Foi acordado entre os integrantes do grupo uma maior dedicação quanto a comunicação dentro do grupo e com os clientes.
+> Pedir à professora Sheilla para definir e nos passar qual será a fonte usada para a 1ª alimentação;
 
-### Duração
+> Pedir à professora Sheilla para nos prover exemplos de dados relevantes e não relevantes acerca de um grupo específico pertencente aos PCTs. Também nos passar uma série de palavras chaves que se relacionam com esse grupo definido.
+
+
+### Duração da Sprint
 
 | Duração |   Início   |     Fim    |
 | ------- | ---------- | ---------- |
-| 7 dias  | 20/09/2021 | 27/09/2021 |
-
+| 7 dias  | 14/09/2021 | 20/09/2021 |
 
 ### Sprint Backlog
 
-| Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
-| ------------------- | ---------------- | --------- | -------------- |
-| ```US01``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```8``` | Sim - criação dos testes |
-| ```US03``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```8``` | 
-| ```US13``` | ```Lucas Maciel``` | ```20``` | Sim - integração do scraper com o microsserviço de Documentos |
-| ```US15``` | ```Lude Ribeiro, Julio Litwin e Lucas Gomes Silva, Lucas Maciel``` | ```20``` | Sim - finalização do scraper específico |
-| ```US21``` | ```Caio Fernandes e Guilherme Mendes``` | ```20``` |  |
+| Descrição da Tarefa | Responsável(eis) | Pontuação |
+| ------------------- | ---------------- | --------- |
+| ```US01``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```8``` | 
+| ```US13``` | ```Lucas Maciel, Guilherme Mendes e Lude Ribeiro``` | ```20``` | 
+| ```US15``` | ```Caio Fernandes, Julio Litwin e Lucas Gomes Silva``` | ```20``` |
 
 ### PlanItPoker
 As US planejadas tiveram seu esforço levantado por meio do PlanItPoker com a equipe.
 
 ------
-#### US03
-![US03](https://imgur.com/lTFtvL0.jpg)
-Deve ser entregue comunicando com a API de documentos;
+#### US01
+![US01](https://i.imgur.com/vaVhV87.jpg)
 
-Os testes referentes a essa issue também devem ser entregues para que ela seja considerada como completa.
-
-------
-#### US21
-![US21](https://imgur.com/VH6pKGJ.jpg)
+Os testes referentes a essa issue também devem ser entregues para que ela seja considerada como completa;
 
 ------
+#### US13
+![US13](https://i.imgur.com/TeWucl0.jpg)
+
+Avaliando questões de logística e gerência, a equipe decidiu quebrar a US13 em trabalhos menores. Foi identificada como a história mais complicada do projeto. Seu escopo para essa Sprint foi entendido como a criação de um crawler genérico, somente.
+
+Foi percebida a necessidade da criação de uma nova issue para conectar a funcionalidade da US13 ao modelo e agendamentos;
+
+------
+#### US15
+![US15](https://i.imgur.com/7vDpG9c.jpg)
+
+Criação do primeiro Crawler para alimentação da Base e também a criação dos Bancos de Dados a serem utilizados para o projeto.
+
+------
+
 
 ### BurnDown de Risco
 
-![BurnDownS1](https://imgur.com/Kcac3CP.png)
+![BurnDownS0](https://i.imgur.com/LmPgkFt.png)
 
-![BurnDownGraficoS1](https://imgur.com/RaldHxh.png)
+![BurnDownGraficoS0](https://i.imgur.com/o1WT9TO.png)
+
 
 ## Notas pós reunião
-
-- Conversar com o integrante Lucas Maciel para tratar sobre o scraper;
-- Reunião para tratar a comunicação entre o microsserviço de scrapers com o restante dos microsserviços de machine learning e/ou documentos;
-- Reunião sobre categorização dos dados;
-- Marcar reunião com o professor Hilmer;
-- Ponto ressaltado foi a falta da adição do link do vídeo no discord.
+> Marcar conversa com o professor Hilmer a respeito da R1;

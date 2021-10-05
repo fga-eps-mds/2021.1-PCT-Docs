@@ -29,8 +29,8 @@
     * [Modelo de Fechamento de Sprint](project/ModelosDeAtas/modeloFechamentoSprint.md)
     * [Modelo de Sprints e Reuniões](project/ModelosDeAtas/modeloSprints&Reunioes.md)
   * Sprints
-    * Sprint 0
-      * [Abertura](project/sprints/sprint0/abertura.md)
-      * [Fechamento](project/sprints/sprint0/fechamento.md)
     * Sprint 1
       * [Abertura](project/sprints/sprint1/abertura.md)
+      * [Fechamento](project/sprints/sprint1/fechamento.md)
+    * Sprint 2
+      * [Abertura](project/sprints/sprint2/abertura.md)
