@@ -1,8 +1,8 @@
 # Sprint Planning 2
 
-|    Data    | Versão |         Descrição         |           Autor(es)           |
-| :--------: | :----: | :-----------------------: | :---------------------------: |
-| 20/09/2020 |  1.0   | Redação da ata de abertura | Lucas Silva |
+|    Data    | Versão |         Descrição          |  Autor(es)  |
+| :--------: | :----: | :------------------------: | :---------: |
+| 20/09/2021 |  1.0   | Redação da ata de abertura | Lucas Silva |
 
 # Abertura da Sprint 02
 
@@ -38,20 +38,20 @@
 
 ### Duração
 
-| Duração |   Início   |     Fim    |
+| Duração | Início     | Fim        |
 | ------- | ---------- | ---------- |
 | 7 dias  | 20/09/2021 | 27/09/2021 |
 
 
 ### Sprint Backlog
 
-| Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
-| ------------------- | ---------------- | --------- | -------------- |
-| ```US01``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```8``` | Sim - criação dos testes |
-| ```US03``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```8``` | |
-| ```US13``` | ```Lucas Maciel``` | ```20``` | Sim - integração do scraper com o microsserviço de Documentos |
-| ```US15``` | ```Lude Ribeiro, Julio Litwin e Lucas Gomes Silva, Lucas Maciel``` | ```20``` | Sim - finalização do scraper específico |
-| ```US21``` | ```Caio Fernandes e Guilherme Mendes``` | ```20``` |  |
+| Descrição da Tarefa | Responsável(eis)                                                            | Pontuação | Débito Técnico           | US SP Anterior                                                |
+| ------------------- | --------------------------------------------------------------------------- | --------- | ------------------------ | ------------------------------------------------------------- |
+| ```US01```          | ```Miguel Alves,Lucas Gomes e Letícia Araújo```                             | ```8```   | Sim - criação dos testes |                                                               |
+| ```US03```          | ```Miguel Alves,Lucas Gomes e Letícia Araújo, Lude Ribeiro, Julio Litwin``` | ```8```   |                          |                                                               |
+| ```US13```          | ```Lucas Maciel```                                                          | ```20```  |                          | Sim - integração do scraper com o microsserviço de Documentos |
+| ```US15```          | ```Lucas Gomes Silva, Lucas Maciel```                                       | ```20```  |                          | Sim - finalização do scraper específico                       |
+| ```US21```          | ```Caio Fernandes e Guilherme Mendes```                                     | ```20```  |                          |                                                               |
 
 ### PlanItPoker
 As US planejadas tiveram seu esforço levantado por meio do PlanItPoker com a equipe.
