@@ -38,3 +38,5 @@
     * Sprint 3
       * [Abertura](project/sprints/sprint3/abertura.md)
       * [Fechamento](project/sprints/sprint3/fechamento.md)
+    * Sprint 4
+      * [Abertura](project/sprints/sprint4/abertura.md)
