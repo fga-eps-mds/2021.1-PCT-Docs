@@ -46,13 +46,13 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico | Não Realizada |
 | ------------------- | ---------------- | --------- | -------------- |---|
-| ```US02``` | ```Caio Fernandes, Guilherme Mendes, Lucas Gomes de Oliveira, Letícia Karla Araújo ``` | ```13``` |  |  |
-| ```US22``` | ```Guilherme Mendes, Lucas Gomes de Oliveira``` | ```5``` |  |  |
-| ```US07``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Lucas Maciel``` | ```20``` |  |  |
-| ```US09``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Lucas Maciel``` | ```8``` |  |  |
-| ```US08``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri``` | ```8``` |  |  |
-| ```US10``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri``` | ```5``` |  |  |
-| ```US15``` | ```Lucas Maciel``` | | | 
+| ```US02``` | ```Caio Fernandes, Guilherme Mendes, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```13``` |  |  |
+| ```US22``` | ```Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```5``` |  |  |
+| ```US07``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```20``` |  |  |
+| ```US09``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```8``` |  |  |
+| ```US08``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```8``` |  |  |
+| ```US10``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```5``` |  |  |
+| ```US15``` | ```Lucas Maciel``` | | Sim - Sprint 2 |
 | ```US20``` | ```Lucas Maciel``` | ```20``` | |
 
 ### PlanItPoker
