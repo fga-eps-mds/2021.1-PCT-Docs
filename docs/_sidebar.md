@@ -40,3 +40,4 @@
       * [Fechamento](project/sprints/sprint3/fechamento.md)
     * Sprint 4
       * [Abertura](project/sprints/sprint4/abertura.md)
+      * [Dailies](project/sprints/sprint4/dailies.md)
