@@ -46,12 +46,12 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico | Não Realizada |
 | ------------------- | ---------------- | --------- | -------------- |---|
-| ```US02``` | ```Caio Fernandes, Guilherme Mendes, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```13``` |  |  |
-| ```US22``` | ```Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```5``` |  |  |
-| ```US07``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```20``` |  |  |
-| ```US09``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```8``` |  |  |
-| ```US08``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```8``` |  |  |
-| ```US10``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri, Miguel Alves, Lucas Gomes de Oliveira, Letícia Karla Araújo``` | ```5``` |  |  |
+| ```US02``` | ```Caio Fernandes, Guilherme Mendes, Miguel Alves``` | ```13``` |  |  |
+| ```US22``` | ```Miguel Alves``` | ```5``` |  |  |
+| ```US07``` | ```Lude Yuri, Lucas Gomes de Oliveira``` | ```20``` |  |  |
+| ```US09``` | ```Lude Yuri, Lucas Gomes de Oliveira``` | ```8``` |  |  |
+| ```US08``` | ```Lucas Silva, Julio Cesar Litwin, Letícia Karla Araújo``` | ```8``` |  |  |
+| ```US10``` | ```Lucas Silva, Julio Cesar Litwin, Letícia Karla Araújo``` | ```5``` |  |  |
 | ```US15``` | ```Lucas Maciel``` | | Sim - Sprint 2 |
 | ```US20``` | ```Lucas Maciel``` | ```20``` | |
 
