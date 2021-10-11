@@ -34,9 +34,11 @@
       * [Fechamento](project/sprints/sprint1/fechamento.md)
     * Sprint 2
       * [Abertura](project/sprints/sprint2/abertura.md)
+      * [Dailies](project/sprints/sprint2/dailies.md)
       * [Fechamento](project/sprints/sprint2/fechamento.md)
     * Sprint 3
       * [Abertura](project/sprints/sprint3/abertura.md)
+      * [Dailies](project/sprints/sprint3/dailies.md)
       * [Fechamento](project/sprints/sprint3/fechamento.md)
     * Sprint 4
       * [Abertura](project/sprints/sprint4/abertura.md)
