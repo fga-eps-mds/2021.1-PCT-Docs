@@ -43,6 +43,6 @@
     * Sprint 4
       * [Abertura](project/sprints/sprint4/abertura.md)
       * [Dailies](project/sprints/sprint4/dailies.md)
+      * [Fechamento](project/sprints/sprint4/fechamento.md)
     * Sprint 5
       * [Abertura](project/sprints/sprint5/abertura.md)
-      * [Dailies](project/sprints/sprint5/dailies.md)
