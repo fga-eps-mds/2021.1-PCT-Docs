@@ -1,7 +1,7 @@
 # Ata da Sprint Planning
 
-|    Data    | Versão |         Descrição         |           Autor(es)           |
-| :--------: | :----: | :-----------------------: | :---------------------------: |
+|    Data    | Versão |          Descrição           |  Autor(es)  |
+| :--------: | :----: | :--------------------------: | :---------: |
 | 20/09/2020 |  1.0   | Redação da ata de fechamento | Lucas Silva |
 
 Os documentos de Fechamento de sprint deverão seguir o seguinte padrão:
@@ -29,6 +29,12 @@ Os documentos de Fechamento de sprint deverão seguir o seguinte padrão:
 
 ## Review
 
+| Descrição da Tarefa | Responsável(eis)                                       | Pontuação | Concluída?    | Débito Técnico? |
+| ------------------- | ------------------------------------------------------ | --------- | ------------- | --------------- |
+| ```US01```          | ```Miguel Alves,Lucas Gomes e Letícia Araújo```        | ```8```   | Não Concluída |                 |
+| ```US13```          | ```Lucas Maciel, Lude Yuri e Guilherme Mendes```       | ```20```  | Não Concluída |                 |
+| ```US15```          | ```Caio Fernandes, Julio Litwin e Lucas Gomes Silva``` | ```20```  | Não Concluída |                 |
+
 * ```Lucas Maciel, Lude Yuri e Guilherme Mendes```: Tiveram dificuldade para se reunir e de sete itens propostos para o Scraper, apenas três foram realizadas (setup do scrapy e bibliotecas, script base e salvamento dos dados brutos em banco), faltando a criação de uma API para controle do scraper, CRUD de scrapers (genreciar as fontes), integrar scraper com a API e teste de cobertura da API. Algumas dificuldades foram:
     1. Comunicação entre os serviços: Dúvida sobre qual seria a melhor maneira de armazenar os dados brutos para o serviço ML Training (Database no serviço de Scraper, Message Queue/Broker) em questão de arquitetura?
     2. Possibilidade de utilizar um orquestrador/pipeline de dados?
@@ -38,17 +44,18 @@ Os documentos de Fechamento de sprint deverão seguir o seguinte padrão:
 ## Retrospectiva
 
 * ```Lucas Maciel, Lude Yuri e Guilherme Mendes```: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
-    * Positivos: ```Houve uma melhoria na estrutura do script do scraper e foi inicializado o setup do banco de dados em MongoDB```
-    * Negativos: ```Comunicação, disponibilidade, incerteza sobre arquitetura e recursos```
-    * Melhorias: ```Definição melhor da comunicação entre microsserviços, melhoria no entendimento a respeito do scraper```
+  * Positivos: ```Houve uma melhoria na estrutura do script do scraper e foi inicializado o setup do banco de dados em MongoDB```
+  * Negativos: ```Comunicação, disponibilidade, incerteza sobre arquitetura e recursos```
+  * Melhorias: ```Definição melhor da comunicação entre microsserviços, melhoria no entendimento a respeito do scraper```
 * ```Caio, Julio e Lucas Silva```: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
-    * Positivos: ```PontosPositivos```
-    * Negativos: ```Comunicação, disponibilidade```
-    * Melhorias: ```PossíveisMelhorias```
+  * Positivos: ```PontosPositivos```
+  * Negativos: ```Comunicação, disponibilidade```
+  * Melhorias: ```PossíveisMelhorias```
 * ```Miguel, Lucas Gomes e Letícia Araujo```: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
-    * Positivos: ```US está quase finalizada```
-    * Negativos: ```Comunicação, disponibilidade, dependência do cliente```
-    * Melhorias: ```Definir uma melhor identidade visual do site```
+  * Positivos: ```US está quase finalizada```
+  * Negativos: ```Comunicação, disponibilidade, dependência do cliente```
+  * Melhorias: ```Definir uma melhor identidade visual do site```
+
 ## Notas pós reunião
 
 - Marcar reunião com o professor Hilmer;
