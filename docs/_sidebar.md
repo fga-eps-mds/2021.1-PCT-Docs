@@ -46,3 +46,5 @@
       * [Fechamento](project/sprints/sprint4/fechamento.md)
     * Sprint 5
       * [Abertura](project/sprints/sprint5/abertura.md)
+      * [Fechamento](project/sprints/sprint5/fechamento.md)
+      * [Dayles](sprints/sprint5/dailies.md)
