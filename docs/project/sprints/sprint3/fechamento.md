@@ -3,6 +3,7 @@
 |    Data    | Versão |          Descrição           |                 Autor(es)                  |
 | :--------: | :----: | :--------------------------: | :----------------------------------------: |
 | 04/10/2021 |  1.0   | Redação da ata de fechamento | [Lucas Maciel](https://github.com/Ridersk) |
+| 20/10/2021 |  2.0   | Inserção da US04 e US11      | [Lucas Gomes](https://github.com/LGomees)  |
 
 **Data**: ```04``` de ```Outubro``` de ```2021```
 
@@ -32,10 +33,13 @@
 | ```US03``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo, Lude Ribeiro, Julio Litwin, Lucas Silva, Lucas Maciel``` | ```8``` | Concluída | Débito (testes) |
 | ```US21``` | ```Caio Fernandes e Guilherme Mendes``` | ```20``` | Concluída | Débito (integração) |
 | ```TS - Deploy``` | ```Lucas Maciel``` | ```8``` | Concluída | |
+| ```US04``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` |  ```X``` | Concluída | |
+| ```US11``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` |  ```X``` | Concluída | |
 
 * ```US01 - Miguel Alves,Lucas Gomes e Letícia Araújo```:
   * A página de busca foi desenvolvida.
   * Não finalizaram o débito técnico de criação de testes da tela inicial;
+  * [ATUALIZAÇÃO] Foram desenvolvidas nessa mesma sprint as US04 (Acessar link da pesquisa) e US11 (Feed de Últimas atualizações)
 * ```US03 - Miguel Alves,Lucas Gomes e Letícia Araújo```:
   * Desenvolveram a tela de busca e integraram a API de documentos;
 * ```US03 - Lude Ribeiro, Julio Litwin, Lucas Maciel, Lucas Gomes Silva```:
@@ -71,3 +75,4 @@
 * Débito US21 - Executar e integrar o modelo de ML nos registros recuperados
 * Foi levantado durante a reunião com o cliente um pedido de inclusão de nova feature para realimentação do modelo de ML
 * Tirar dúvida com o professor em relação ao planejamento
+* [ATUALIZAÇÃO] Foram identificadas outras US's que foram desenvolvidas durante essa sprint. As mesmas foram inseridas na tabela dessa ata.
