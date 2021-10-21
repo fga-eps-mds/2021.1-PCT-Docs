@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :-----: | :-----: | :-----------------------: | :---------------------------: |
 | 11/10/2021 | 1.0 | Abertura Sprint 05 | Lude Yuri de Castro Ribeiro |
+| 20/10/2021 | 2.0 | Inserção do burndown de riscos e corrigindo escrita | [Lucas Gomes de Oliveira](https://github.com/LGomees) |
 
 Os documentos de abertura de sprint deverão seguir o seguinte padrão:
 
@@ -37,7 +38,7 @@ Os documentos de abertura de sprint deverão seguir o seguinte padrão:
 
 | Duração |   Início   |     Fim    |
 | ------- | ---------- | ---------- |
-| 6 dias  | dd/mm/aaaa | dd/mm/aaaa |
+| 7 dias  | 18/10/2021 | 25/10/2021 |
 
 ### Sprint Backlog
 
@@ -55,6 +56,12 @@ Os documentos de abertura de sprint deverão seguir o seguinte padrão:
 ### PlanItPoker
 
 > Por serem mantidas as tarefas da sprint passada se mantém o [planejamento](/docs/project/sprints/sprint4/abertura.md) que deve ser revisto na próxima planning, pois foi verificado que estamos alocando muitos pontos por Sprint
+
+### Burndown de Riscos
+![BurndownS5](https://user-images.githubusercontent.com/18038966/138200242-898e696b-f248-4985-a786-8aad95c0b748.png)
+![BurndownGraficoS5](https://user-images.githubusercontent.com/18038966/138200372-1ba95390-a925-4c4f-9a4f-8e37735aba26.png)
+
+
 
 ## Notas pós reunião
 
