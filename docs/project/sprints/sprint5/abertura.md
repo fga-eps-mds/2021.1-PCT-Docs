@@ -59,8 +59,7 @@ Os documentos de abertura de sprint deverão seguir o seguinte padrão:
 
 ### Burndown de Riscos
 ![BurndownS5](https://user-images.githubusercontent.com/18038966/138200242-898e696b-f248-4985-a786-8aad95c0b748.png)
-![BurndownGraficoS5](https://user-images.githubusercontent.com/18038966/138200372-1ba95390-a925-4c4f-9a4f-8e37735aba26.png)
-
+![BurndownGraficoS5](https://user-images.githubusercontent.com/18038966/138201635-81b57e73-d4c6-437f-8968-4b88594292d3.png)
 
 
 ## Notas pós reunião
