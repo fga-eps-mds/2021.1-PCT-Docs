@@ -3,7 +3,8 @@
 |    Data    | Versão |          Descrição           |                 Autor(es)                  |
 | :--------: | :----: | :--------------------------: | :----------------------------------------: |
 | 04/10/2021 |  1.0   | Redação da ata de fechamento | [Lucas Maciel](https://github.com/Ridersk) |
-| 20/10/2021 |  2.0   | Inserção da US04 e US11      | [Lucas Gomes](https://github.com/LGomees)  |
+| 20/10/2021 |  2.0   | Inserção da US04, US11 e US16 | [Lucas Gomes](https://github.com/LGomees)  |
+
 
 **Data**: ```04``` de ```Outubro``` de ```2021```
 
@@ -33,13 +34,14 @@
 | ```US03``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo, Lude Ribeiro, Julio Litwin, Lucas Silva, Lucas Maciel``` | ```8``` | Concluída | Débito (testes) |
 | ```US21``` | ```Caio Fernandes e Guilherme Mendes``` | ```20``` | Concluída | Débito (integração) |
 | ```TS - Deploy``` | ```Lucas Maciel``` | ```8``` | Concluída | |
-| ```US04``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` |  ```X``` | Concluída | |
-| ```US11``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` |  ```X``` | Concluída | |
+| ```US04``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` |  ```2``` | Concluída | |
+| ```US11``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` |  ```8``` | Concluída | |
+| ```US16``` | ```Lucas Maciel``` |  ```13``` | Concluída | |
 
 * ```US01 - Miguel Alves,Lucas Gomes e Letícia Araújo```:
   * A página de busca foi desenvolvida.
   * Não finalizaram o débito técnico de criação de testes da tela inicial;
-  * [ATUALIZAÇÃO] Foram desenvolvidas nessa mesma sprint as US04 (Acessar link da pesquisa) e US11 (Feed de Últimas atualizações)
+  * [ATUALIZAÇÃO] Foram desenvolvidas nessa mesma sprint as US04 (Acessar link da pesquisa), US11 (Feed de Últimas atualizações) e US16 (2ª Alimentação da base)
 * ```US03 - Miguel Alves,Lucas Gomes e Letícia Araújo```:
   * Desenvolveram a tela de busca e integraram a API de documentos;
 * ```US03 - Lude Ribeiro, Julio Litwin, Lucas Maciel, Lucas Gomes Silva```:
