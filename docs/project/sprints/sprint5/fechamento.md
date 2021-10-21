@@ -34,7 +34,7 @@
 | ```US08``` | ```Lucas Silva, Julio Cesar Litwin, Letícia Karla Araújo``` | ```8``` | Não Concluída |  |
 | ```US10``` | ```Lucas Silva, Julio Cesar Litwin, Letícia Karla Araújo``` | ```5``` | Não Concluída |  |
 | ```US15``` | ```Lucas Maciel``` | | Débito não concluído |
-| ```US20``` | ```Lucas Maciel``` | ```20``` | Não Concluída | |
+| ```US20``` | ```Lucas Maciel``` | ```20``` | Concluída | |
 
 
 * ```US02 - Caio Fernandes, Guilherme Mendes```:
