@@ -1,10 +1,11 @@
-# Fechamento da Sprint 03
+# Fechamento da Sprint 05
 
 |    Data    | Versão |          Descrição           |                 Autor(es)                  |
 | :--------: | :----: | :--------------------------: | :----------------------------------------: |
 | 18/10/2021 |  1.0   | Redação da ata de fechamento | [Lude Ribeiro](https://github.com/luderibeiro) |
+| 20/10/2021 | 2.0 | Correção de escrita e inserção de justificativas | [Lucas Gomes de Oliveira](https://github.com/LGomees) |
 
-**Data**: ```11``` de ```Outubro``` de ```2021```
+**Data**: ```18``` de ```Outubro``` de ```2021```
 
 **Redigida por**: ```Lucas Maciel```
 
@@ -20,8 +21,7 @@
 
 ## Notas pré reunião
 
-* ```Lucas Gomes de Oliveira```
-* ```Miguel Alves```
+* -
 
 ## Review
 
@@ -45,11 +45,11 @@
     * Essa segunda é essencial para análise aprofundada do dado.  Essa análise é necessária para o desenvolvimento da pipeline de processamento de texto extraído, para que o modelo tenha o melhor entendimento possível.
 
 * ```US02, US22 - Miguel Alves```:
-  * ...
+  * Infelizmente a realização da US foi comprometida pois todos os integrantes alocados para o seu desenvolvimento tiveram problemas pessoais das mais diversas naturezas. A saúde de familiares, cirurgias de emergência e até casos mais íntimos com risco à vida de familiares e internação. Dessa forma, a US não foi evoluída
 * ```US07, US09 - Lude Yuri```:
   * Fiquei com o cadastro e com o login de usuário no back mas não consegui concluir no prazo e ainda está sendo produzido pretendo terminar o mais breve possível talvez amanhã
 * ```US07, US09 - Lucas Gomes de Oliveira```:
-  * ...
+  * Comecei o desenvolvimento da US porém por conta de estar em uma localidade que estava sem energia (durante dois dias), fui impedido de continuar o trabalho. 
 * ```US08, US10 - Lucas Silva, Julio Cesar Litwin```:
   * Basicamente finalizamos a parte de edição de perfil, faltando apenas a validação dos testes, mas acredito que ainda hoje ela esteja finalizada. Mas como estamos compartilhando a mesma branch com o Lude, estamos dependendo da US dele pra subir o PR
 * ```US08, US10 - Letícia Karla Araújo```:
@@ -70,7 +70,7 @@
     * Melhorias: ```Começar a criar mais testes, padronizar os repositórios, melhorar a sincronia das tarefas entre os membros```
 * ```Miguel Alves,Lucas Gomes e Letícia Araújo```: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
     * Positivos: ```Boa recuperação na sprint por parte da equipe```
-    * Negativos: ```Problemas pessoais com os membros da equipe, Comunicação fora do pareamento, ```
+    * Negativos: ```Problemas pessoais com os membros da equipe, Comunicação fora do pareamento, Problemas técnicos```
     * Melhorias: ```Comunicação com o restante do time, Desenvolvimento ao longo da sprint```
 * ```Lude Ribeiro, Julio Litwin```: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
     * Positivos: ```Aprendeu um pouco de Python```
@@ -83,5 +83,4 @@
 
 ## Notas pós reunião
 
-* Verificar situação das atividades com o Miguel e o Lucas Gomes
 * Rever o planejamento das USs
