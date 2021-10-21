@@ -33,7 +33,8 @@ Feature: É uma "funcionalidade" ou uma "característica".
 | EP02 - Usuário  | F06 - Entrada | [US09](#us09) e [US10](#us10) |
 | EP03 - Atualizações | F07 - Feed de Atualizações  | [US11](#us11) e [US12](#us12) |
 | EP04 - Manter Dados | F08 - Inserção de fontes de dados  | [US13](#us13), [US14](#us14), [US15](#us15), [US16](#us16), [US17](#us17), [US18](#us18) e [US19](#us19), [US20](#us20) |
-| EP04 - Manter Dados | F09 - Categorização dos dados  | [US21](#us21) |
+| EP04 - Manter Dados | F09 - Categorização dos dados  | [US21](#us21) e [US26](#us26) |
+| EP04 - Manter Dados | F10 - Monitoramento  | [US25](#us25) |
 
 ### 1.2 História de Usuário (User Story)
 
@@ -255,6 +256,24 @@ Uma história do usuário é um formato curto para escrever os requisitos para c
 | **Feature** | F03 - Armazenamento |
 | **Descrição** | Eu, como usuário, desejo acessar as pesquisas salvas no meu perfil. |
 | **Critérios de aceitação** | - Mostrar a lista de pesquisas salvas <br> - Mostrar botão para exportação da lista <br> - Reabrir pesquisa salva  |
+
+#### US25
+##### Monitoramento da alimentação da base.
+
+| **Épico** |EP04 - Manter Dados|
+| ---: | :------- |
+| **Feature** |F10 - Monitoramento |
+| **Descrição** | Eu, como administrador, gostaria de monitorar o status de execução dos scrapers |
+| **Critérios de aceitação** | - Definir categorias <br> -  |
+
+#### US26
+##### Fluxo de Machine Learning no Metaflow.
+
+| **Épico** |EP04 - Manter Dados|
+| ---: | :------- |
+| **Feature** |F09 - Categorização dos dados |
+| **Descrição** | Eu, como administrador, gostaria que o fluxo de Machine Learning seja executado no Metaflow |
+| **Critérios de aceitação** | - Definir categorias <br> -  |
 
 
 ### 1.3 Prioridade
