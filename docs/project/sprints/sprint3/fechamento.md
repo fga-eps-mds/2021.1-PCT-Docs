@@ -41,7 +41,7 @@
 * ```US01 - Miguel Alves,Lucas Gomes e Letícia Araújo```:
   * A página de busca foi desenvolvida.
   * Não finalizaram o débito técnico de criação de testes da tela inicial;
-  * [ATUALIZAÇÃO] Foram desenvolvidas nessa mesma sprint as US04 (Acessar link da pesquisa), US11 (Feed de Últimas atualizações) e US16 (2ª Alimentação da base)
+  * [ATUALIZAÇÃO] Foram desenvolvidas nessa mesma sprint as US04 (Acessar link da pesquisa) e US11 (Feed de Últimas atualizações).
 * ```US03 - Miguel Alves,Lucas Gomes e Letícia Araújo```:
   * Desenvolveram a tela de busca e integraram a API de documentos;
 * ```US03 - Lude Ribeiro, Julio Litwin, Lucas Maciel, Lucas Gomes Silva```:
@@ -51,6 +51,7 @@
   * **Débito:** Integrar o modelo criado com o Scraper e API de Documentos
 * ```TS - Deploy - Lucas Maciel```:
   * Configuração de deploy concluída
+  * [ATUALIZAÇÃO] Foi desenvolvida nessa mesma sprint a US16 (2ª Alimentação da base).
 
 ## Retrospectiva
 
