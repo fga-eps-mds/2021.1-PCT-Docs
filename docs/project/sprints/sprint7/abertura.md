@@ -2,15 +2,14 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 11/09/2020 |  1.0   | Criação do modelo de Abertura de Sprint | [Iuri Severo](https://github.com/iurisevero) |
+| 25/10/2021 |  1.0   | Criação do modelo de Abertura de Sprint | Lude Ribeiro |
+| 01/11/2021 |  2.0   | Correções de algumas informações pendentes | Julio Litwin |
 
-Os documentos de abertura de sprint deverão seguir o seguinte padrão:
+# Abertura da Sprint 7
 
-# Abertura da Sprint <Número da Sprint>
+**Data**: ```25``` de ```Outubro``` de ```2021```
 
-**Data**: ```dia``` de ```mês``` de ```ano```
-
-**Redigida por**: ```NomeDoRedator```
+**Redigida por**: ```Lude Ribeiro```
 
 **Participantes**: 
 * ```Caio Fernandes```
