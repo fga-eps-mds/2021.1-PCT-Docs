@@ -4,6 +4,7 @@
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 25/10/2021 |  1.0   | Criação do modelo de Abertura de Sprint | Lude Ribeiro |
 | 01/11/2021 |  2.0   | Correções de algumas informações pendentes | Julio Litwin |
+| 01/11/2021 |  2.1   | Correções de algumas informações pendentes | Julio Litwin |
 
 # Abertura da Sprint 7
 
@@ -20,11 +21,10 @@
 
 ## Notas pré reunião
 
+> Sem notas.
+
 **Integrantes ausentes**
 * * ```Miguel Alves```
-
-
-> Adicione aqui algum comentário relevante para a reunião, se não houver nenhum comentário a ser feito, apague essa parte.
 
 ## Planning
 
@@ -54,8 +54,6 @@
 ![](https://i.imgur.com/1asLIAs.png)
 
 
-> Se houver débito técnico ele deverá ser incluso na tabela de Sprint Backlog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
-
 ## Notas pós reunião
 
-> Adicione aqui algum comentário que afetará a sprint após essa reunião, se não houver nenhum comentário a ser feito, apague essa parte.
+> Sem notas.
