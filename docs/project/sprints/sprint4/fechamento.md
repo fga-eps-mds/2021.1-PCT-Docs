@@ -1,4 +1,4 @@
-# Fechamento da Sprint 03
+# Fechamento da Sprint 04
 
 |    Data    | Versão |          Descrição           |                 Autor(es)                  |
 | :--------: | :----: | :--------------------------: | :----------------------------------------: |
