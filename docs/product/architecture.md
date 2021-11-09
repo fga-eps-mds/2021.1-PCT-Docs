@@ -15,6 +15,7 @@
 |12/09/2021|0.10| Visão de Casos de Uso | Lucas Silva|
 |13/09/2021|0.11| Evolução da Modelagem de BD | Caio Fernandes|
 |13/09/2021|1.0| Adição Pipeline DevOps | Lucas Maciel |
+|09/11/2021|1.0| Atualização dos diagramas Diagrama de Relações, Serviços, DER e Lógico | Lucas Maciel |
 
 ## 1. Introdução
 ### 1.1 Finalidade
@@ -39,7 +40,13 @@ O projeto PCTs consiste em uma aplicação, consumida na forma de um site, com o
 
 ## 2. Representação Arquitetural
 ### 2.1 Diagrama de Relações
+
+
+* Versão 1 (Planejada):
 ![ArchitecturalRepresentation](https://i.imgur.com/JJNYleS.png)
+
+* Versão Executada (Simplificada):
+![ArchitecturalRepresentationV2](https://i.imgur.com/JLX8izy.jpg)
 
 
 ### 2.2 Representação dos Microsserviços
@@ -47,9 +54,8 @@ A arquitetura do projeto será desenvolvida por meio de microsserviços, ou seja
 
 ![MicroServicesRepresentation](https://i.imgur.com/vYYsA0B.png)
 
-
 * **Documents API:** Serviço ou API responsável por armazenar, organizar e entregar os resultados de buscas de documentos para os usuários
-* **Users API:** API de usuários, onde será armazenado alguns poucos dados de perfil de usuários, além das funcionalidades que permitem uma utilização personalizada do serviço, tais como a funcionalidade de salvamento de pesquisas.
+* **Users API (não implementado):** API de usuários, onde será armazenado alguns poucos dados de perfil de usuários, além das funcionalidades que permitem uma utilização personalizada do serviço, tais como a funcionalidade de salvamento de pesquisas.
 * **Scraper Service:** Serviço  responsável pela coleta e extração de informações das fontes de dados adicionadas ao serviço.
 * **ML Training Service:** Módulo de Machine Learning. Este serviço possui uma plataforma com os modelos para categorização, agrupamento e classificação dos documentos extraídos.
 * **Frontend:** Módulo de apresentação do serviço ao usuário final. Consiste em um website responsivo capaz de se adaptar desde telas de computadores, até pequenas telas de celular,  sem perder a qualidade visual.
@@ -108,7 +114,7 @@ O negócio ao qual este projeto faz parte tem por objetivo Dar visibilidade e Fa
 
 ### 3.3 Requisitos Não Funcionais
 * **Usabilidade:** A aplicação deve possuir uma interface intuitiva e de fácil acessso para todos os públicos;
-* **Segurança:** A aplicação deve tretar de forma sgura os dados armazenados (usuário);
+* **Segurança:** A aplicação deve tratar de forma sgura os dados armazenados (usuário);
 * **Escalabilidade:** A aplicação deve ser capaz de escalar conforme o crescimento do número de usuários e para implementação de novas funcionalidades;
 * **Confiabilidade:** A aplicação deve ser capaz de recuperar dados confiáveis e relevantes a respeito dos povos e comunidades tradicionais;
 
@@ -119,7 +125,7 @@ A visão lógica descreve as partes significativas do ponto de vista da arquitet
 
 |Ator|Descrição|  
 |----|---------|
-| Usuário | O usuário poderá realizar buscas e visualizar o resultado no site, além de salvar e exportar as buscas salvas. |
+| Usuário | O usuário poderá realizar buscas e visualizar o resultado no site, além de  <s>salvar</s> e exportar as buscas <s>salvas</s>. |
 | Usuário Privilegiado | O usuário privilegiado poderá adicionar novas fontes de dados e palavras-chaves pelo próprio site. |
 | Administrador | O administrador poderá utilizar o crawler em determinados sites a fim de alimentar a base de dados, onde deve acontecer uma categorização dos dados utilizando técnicas de machine learning. |
 
@@ -128,29 +134,29 @@ Os casos de uso citados na tabela a seguir são épicos, são eles:
 
 |Épico|Caso de uso|Descrição|  
 |-----|-----------|---------|
-| EP01 | Pesquisa | Tem por objetivo dar ao usuário a possibilidade de realizar pesquisas avançadas e visualizá-las e, também, salvar e exportar as pesquisas |
-| EP02 | Usuário | Com o intuito de gerenciamento do cadastro pessoal do usuário, o mesmo poderá se cadastrar e editar o seu cadastro, além de fazer login e logout. |
-| EP03 | Atualizações | O usuário poderá visualizar as últimas atualizações provenientes da nova cartografia social. |
+| EP01 | Pesquisa | Tem por objetivo dar ao usuário a possibilidade de realizar pesquisas avançadas e visualizá-las e, também, <s>salvar</s> e exportar as pesquisas |
+| <s>EP02</s> | <s>Usuário</s> (não implementado) | Com o intuito de gerenciamento do cadastro pessoal do usuário, o mesmo poderá se cadastrar e editar o seu cadastro, além de fazer login e logout. |
+| <s>EP03</s> | <s>Atualizações</s> (não implementado) | <s>O usuário poderá visualizar as últimas atualizações provenientes da nova cartografia social.</s> |
 | EP04 | Manter dados | Usuário privilegiado e administrador poderá realizar ações a fim de gerenciar a base de dados e sua coleta. |
 
 ## 5. Visão Lógica
 ### 5.1 Visão Geral
 
 Visando a utilização de microsserviços, faz-se necessário a implementação de bancos de dados separados por serviços. De acordo com a necessidade e responsabilidade de cada serviço.
-Para a nossa arquitetura, apenas os serviços de usuários e o de documentos terão bancos de dados. Sendo que a modelagem de usuários irá salvar as informações referentes aos usuários e seus históricos de busca.
+Para a nossa arquitetura, os serviços de <s>usuários</s>, documentos e dos crawlers terão bancos de dados. <s>Sendo que a modelagem de usuários irá salvar as informações referentes aos usuários e seus históricos de busca</s>.
 E a modelagem para o serviço de Documentos irá simplesmentes salvar cada informação extraída.
+Também tem-se o banco dos crawlers, onde são armazenadas informações da fonte de dados e a periodicidade da coleta de dados, além do armazenamento das execuções realizadas.
 
 ### 5.2 Diagrama de Entidade Relacionamento
-#### 5.2.1 Users-API
-![DERUsersAPI](https://i.imgur.com/AS7uG6N.png)
+#### 5.2.1 Crawlers
+![DERCrawlers](https://i.imgur.com/yG55ATI.jpg)
 #### 5.2.2 Documents-API
-![DERDocumentsAPI](https://i.imgur.com/fdvPLrk.png)
+![DERDocumentsAPI](https://i.imgur.com/7a6WNs4.jpg)
 ### 5.3 Diagrama Lógico
-#### 5.3.1 Users-API
-![LogicalUsersAPI](https://i.imgur.com/iehn7t0.png)
+#### 5.3.1 Crawlers
+![LogicalCrawlersApi](https://i.imgur.com/RyytbuB.jpg)
 #### 5.3.2 Documents-API
-![LogicalDocumentsAPI](https://i.imgur.com/50OsAzZ.png)
-
+![LogicalDocumentsAPI](https://i.imgur.com/NRbpH43.jpg)
 
 ## 6. Pipeline DevOps
 
