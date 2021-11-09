@@ -32,6 +32,9 @@ Participantes:
 | US25 - Eu, como administrador, gostaria de monitorar o status de execução dos scrapers | Miguel Alves | 13 | Não | Sim |
 | Implementação do Jupyter Notebook | Julio Litwin, Guilherme Mendes | | Não | Sim |
 | Continuação do tratamento do Metaflow | Caio Fernandes, Guilherme Mendes|  | Sim  | Não |
+| Desenvolvimento Extra: | | | | |
+| Além da 4ª alimentação ser implementada, foi possível desenvolver a implementação de mais 5 fontes, sendo elas: Instituto Brasileiro de Geografia e Estatística (IBGE), Senado Federal, Câmara dos Deputados, Supremo Tribunal Federal (STF), Superior Tribunal de Justiça (STJ). | Lucas Maciel e Lucas Silva| 5 | Sim |Não |
+| US19 - Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados | Lucas Maciel e Lucas Silva | 2 | Sim | Não |
 
 * US02, US22 - Miguel Alves:
   * Não conseguiu desenvolver devido a problemas pessoais.
@@ -59,9 +62,9 @@ Participantes:
     * Melhorias: Gestao de tempo, Pareamentos.
 
 * Julio Litwin: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
-    * Positivos: 
-    * Negativos: 
-    * Melhorias: 
+    * Positivos: Gestão de tempo, comunicação e organização.
+    * Negativos: Mais perca de integrantes
+    * Melhorias: Alinhamento com o time
 
 * Caio Fernandes e Guilherme Mendes: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
     * Positivos: Alinhamento do time.

@@ -3,6 +3,7 @@
 |    Data    | Versão |          Descrição           |                 Autor(es)                  |
 | :--------: | :----: | :--------------------------: | :----------------------------------------: |
 | 08/11/2021 |  1.0   | Redação da ata de fechamento | [Lucas Gomes de Oliveira](https://github.com/LGomees) |
+| 09/11/2021 |  1.1   | Atualização dos pontos da Retrospectiva e inserção de novas mudanças| [Lucas Gomes de Oliveira](https://github.com/LGomees) |
 
 Data: 08 de Novembro de 2021
 
@@ -62,9 +63,9 @@ Participantes:
     * Melhorias: Aumentar cobertura de testes, validar features com  o usuário.
 
 * Julio Litwin: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
-    * Positivos: 
-    * Negativos: 
-    * Melhorias: 
+    * Positivos: Gestão de tempo, comunicação e organização.
+    * Negativos: Mais perca de integrantes.
+    * Melhorias: alinhamento com o time, foi finalizado essencia do projeto até então.
 
 * Caio Fernandes e Guilherme Mendes: Descrição dos pontos positivos, negativos e melhorias para a sprint seguinte
     * Positivos: Alinhamento do time.
@@ -74,3 +75,4 @@ Participantes:
 ## Notas pós reunião
 
 * Devemos fazer um overview do projeto e organizar a apresentação final para a cliente. Analisar todos os artefatos e corrigir erros visualizados.
+* Foi solicitado pela cliente a alteração da logomarca e do texto que é apresentado na aba Sobre Nós. Ambas mas solicitações foram implementadas.
