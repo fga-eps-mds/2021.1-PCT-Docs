@@ -45,6 +45,7 @@
 | ```US18 - Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados``` | ```Lucas Maciel e Lucas Silva``` | ```5``` |  |
 | ```US25 - Eu, como administrador, gostaria de monitorar o status de execução dos scrapers``` | ```Miguel Alves``` | ```8``` | Sim |
 | ```Implementação do Jupiter Notebook de Analitics``` | ```Lude Ribeiro, Julio Litwin``` |  |  |
+| ```Continuação do tratamento do Metaflow``` | ```Caio Fernandes, Guilherme Mendes``` |  |  |
 
 #### Pontuações PlanItPoker
 
