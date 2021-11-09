@@ -1,1 +1,242 @@
-{"paging": {"pageIndex": 1, "pageSize": 500, "total": 3}, "baseComponent": {"id": "AXuunGxMPQA4TQfWRDBy", "key": "fga-eps-mds_2021.1-PCTs-Scraper", "name": "2021.1-PCTs-Scraper", "qualifier": "TRK", "measures": [{"metric": "duplicated_lines_density", "value": "0.0", "bestValue": true}, {"metric": "functions", "value": "8"}, {"metric": "security_rating", "value": "1.0", "bestValue": true}, {"metric": "files", "value": "2"}, {"metric": "complexity", "value": "14"}, {"metric": "ncloc", "value": "138"}, {"metric": "coverage", "value": "0.0", "bestValue": false}, {"metric": "reliability_rating", "value": "1.0", "bestValue": true}, {"metric": "comment_lines_density", "value": "0.0", "bestValue": false}]}, "components": [{"id": "AXuunidqK0cVFRTSnYE9", "key": "fga-eps-mds_2021.1-PCTs-Scraper:docker-compose.yml", "name": "docker-compose.yml", "qualifier": "FIL", "path": "docker-compose.yml", "language": "yaml", "measures": [{"metric": "reliability_rating", "value": "1.0", "bestValue": true}, {"metric": "security_rating", "value": "1.0", "bestValue": true}, {"metric": "files", "value": "1"}, {"metric": "duplicated_lines_density", "value": "0.0", "bestValue": true}, {"metric": "test_success_density", "value": "100.0", "bestValue": true}]}, {"id": "AXvnXfnDnX-tKT-HOL1M", "key": "fga-eps-mds_2021.1-PCTs-Scraper:scripts/release.py", "name": "release.py", "qualifier": "FIL", "path": "scripts/release.py", "language": "py", "measures": [{"metric": "complexity", "value": "14"}, {"metric": "functions", "value": "8"}, {"metric": "ncloc", "value": "138"}, {"metric": "coverage", "value": "0.0", "bestValue": false}, {"metric": "reliability_rating", "value": "1.0", "bestValue": true}, {"metric": "security_rating", "value": "1.0", "bestValue": true}, {"metric": "comment_lines_density", "value": "0.0", "bestValue": false}, {"metric": "files", "value": "1"}, {"metric": "duplicated_lines_density", "value": "0.0", "bestValue": true}, {"metric": "test_success_density", "value": "100.0", "bestValue": true}]}, {"id": "AXvnXfnDnX-tKT-HOL1N", "key": "fga-eps-mds_2021.1-PCTs-Scraper:scripts", "name": "scripts", "qualifier": "DIR", "path": "scripts", "measures": [{"metric": "duplicated_lines_density", "value": "0.0", "bestValue": true}, {"metric": "functions", "value": "8"}, {"metric": "security_rating", "value": "1.0", "bestValue": true}, {"metric": "files", "value": "1"}, {"metric": "complexity", "value": "14"}, {"metric": "ncloc", "value": "138"}, {"metric": "coverage", "value": "0.0", "bestValue": false}, {"metric": "reliability_rating", "value": "1.0", "bestValue": true}, {"metric": "comment_lines_density", "value": "0.0", "bestValue": false}]}]}
+{
+  "paging": {
+    "pageIndex": 1,
+    "pageSize": 500,
+    "total": 3
+  },
+  "baseComponent": {
+    "id": "AXuunGxMPQA4TQfWRDBy",
+    "key": "fga-eps-mds_2021.1-PCTs-Scraper",
+    "name": "2021.1-PCTs-Scraper",
+    "qualifier": "TRK",
+    "measures": [
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      {
+        "metric": "functions",
+        "value": "8",
+        "bestValue": false
+      },
+      {
+        "metric": "security_rating",
+        "value": "1.0",
+        "bestValue": true
+      },
+      {
+        "metric": "files",
+        "value": "2",
+        "bestValue": false
+      },
+      {
+        "metric": "complexity",
+        "value": "14",
+        "bestValue": false
+      },
+      {
+        "metric": "ncloc",
+        "value": "138",
+        "bestValue": false
+      },
+      {
+        "metric": "coverage",
+        "value": "0.0",
+        "bestValue": false
+      },
+      {
+        "metric": "reliability_rating",
+        "value": "1.0",
+        "bestValue": true
+      },
+      {
+        "metric": "comment_lines_density",
+        "value": "0.0",
+        "bestValue": false
+      }
+    ]
+  },
+  "components": [
+    {
+      "id": "AXuunidqK0cVFRTSnYE9",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:docker-compose.yml",
+      "name": "docker-compose.yml",
+      "qualifier": "FIL",
+      "path": "docker-compose.yml",
+      "language": "yaml",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXvnXfnDnX-tKT-HOL1M",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:scripts/release.py",
+      "name": "release.py",
+      "qualifier": "FIL",
+      "path": "scripts/release.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "138",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXvnXfnDnX-tKT-HOL1N",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:scripts",
+      "name": "scripts",
+      "qualifier": "DIR",
+      "path": "scripts",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "138",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    }
+  ]
+}
