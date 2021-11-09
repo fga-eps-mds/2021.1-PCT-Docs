@@ -38,8 +38,8 @@ Participantes:
 * US26 - Caio Fernandes, Guilherme Mendes:
   * Metaflow finalizado, tendo uma maior integracao automatizada do modelo obtido.
 * US02, US22 - Miguel Alves:
-  
-* US23 - Lucas Gomes, Lucas Maciel:
+  -
+* US25 - Lucas Gomes, Lucas Maciel:
   * A parte da Api já foi finalizada, faltando apenas a pagina do fronted para trazer as informacoes para o usuario.
 * US07, US08, US09, US10 - Lucas Silva, Julio Cesar Litwin, Lude Yuri:
   * A US`s foram repriorizadas e o desenvolvimento foi interrompido.
