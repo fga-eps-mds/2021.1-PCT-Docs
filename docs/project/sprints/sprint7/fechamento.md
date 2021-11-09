@@ -40,7 +40,7 @@ Participantes:
 * US18 - Lucas Silva, Lucas Maciel :
   * Foi realizado o quarto carregamento (site do IBAMA).
 * US17 - Julio Cesar Litwin:
-  * -
+  * Eu realizei a parte do Analytics, corrigi alguns problemas também que havia, tá configurado também para poder executar e obter os dados, até então, é necessário só gerar releases e obter os measures.
 * Continuação do tratamento do Metaflow - Caio Fernandes, Guilherme Mendes:
     * Foi realizada a primeira versão do script de metaflow e foi criada uma nova versão de treinamento do modelo e report. 
     * Criação de uma nova analise exploratória dos dados e normalização dos novos dados de formulários.
