@@ -1,12 +1,13 @@
 # Ata da Sprint Planning 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 19/09/2021 |  1.0   | Redação da ata da equipe | Julio Litwin|
-| 19/09/2021 |  2.0   | Adaptação da ata         | [Lucas Gomes de Oliveira](https://github.com/LGomees) |
+| 19/10/2021 |  1.0   | Redação da ata da equipe | Julio Litwin|
+| 19/10/2021 |  2.0   | Adaptação da ata         | [Lucas Gomes de Oliveira](https://github.com/LGomees) |
+| 09/11/2021 |  3.0   | Correção de Imagens e pontuações   | [Lucas Gomes de Oliveira](https://github.com/LGomees) |
 
 
 # Abertura da Sprint 06
-**Data**: 19 de Setembro de 2021
+**Data**: 19 de Outubro de 2021
 
 **Redigida por**: `Julio Litwin`
 
@@ -36,7 +37,7 @@
 
 | Duração |   Início   |     Fim    |
 | ------- | ---------- | ---------- |
-| 7 dias  | 19/09/2021 | 26/09/2021 |
+| 7 dias  | 19/10/2021 | 26/10/2021 |
 
 ### Sprint Backlog
 
@@ -47,7 +48,7 @@
 | ```US08``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri``` | ```8``` | | Sim - Sprint 4 |
 | ```US09``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri``` | ```8``` | | Sim - Sprint 4 |
 | ```US10``` | ```Lucas Silva, Julio Cesar Litwin, Lude Yuri``` | ```5``` | | Sim - Sprint 4 |
-| ```US17``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```13``` | | Sim - Sprint 4 |
+| ```US17``` | ```Lucas Maciel``` | ```13``` | |  |
 | ```US22``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```5``` | | Sim - Sprint 4 |
 | ```US23``` | ```Miguel Alves,Lucas Gomes e Letícia Araújo``` | ```2``` | | |
 | ```US25``` | ```Lucas Maciel``` | ```13``` | | |
@@ -59,26 +60,30 @@ As US planejadas tiveram seu esforço levantado por meio do PlanItPoker com a eq
 
 ------
 #### US17
-![US17](https://i.imgur.com/TeWucl0.jpg)
+![US17](https://user-images.githubusercontent.com/18038966/140936187-01fd648b-52c6-4405-afee-529cd1a5f8db.jpg)
+
 
 Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 3ª alimentação da base de dados 
 
 ------
 
 #### US23
-![US23](https://i.imgur.com/7vDpG9c.jpg)
+![US23](https://user-images.githubusercontent.com/18038966/140936272-1f64776a-a216-451f-9f84-8af430c90eca.jpg)
+
 
 Eu, como usuário, desejo acessar uma aba sobre as informações do projeto Nova Cartografia Social
 
 ------
 #### US25
-![US25](https://i.imgur.com/7vDpG9c.jpg)
+![US25](https://user-images.githubusercontent.com/18038966/140936355-cd787dcb-2683-4256-b158-f351722aa70d.jpg)
+
 
 Eu, como administrador, gostaria de monitorar o status de execução dos scrapers 
 
 ------
 #### US26
-![US26](https://i.imgur.com/7vDpG9c.jpg)
+![US26](https://user-images.githubusercontent.com/18038966/140936415-77791814-6b2f-414d-a627-9065701342e8.jpg)
+
 
 Eu, como administrador, gostaria que o fluxo de Machine Learning seja processado no Metaflow
 
