@@ -56,3 +56,6 @@
       * [Abertura](project/sprints/sprint7/abertura.md)
       * [Fechamento](project/sprints/sprint7/fechamento.md)
       * [Dailies](sprints/sprint7/dailies.md)
+    * Sprint 8
+      * [Abertura](project/sprints/sprint8/abertura.md)
+      * [Fechamento](project/sprints/sprint8/fechamento.md)
