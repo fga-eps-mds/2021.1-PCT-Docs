@@ -16,6 +16,7 @@
   * [Protótipo](product/prototype.md)
   * [Backlog](product/backlog.md)
   * [Documento de Riscos](product/risks.md)
+  * [Plano de Qualidade](product/analytics.md)
   * [Documento de Planejamento de Qualidade](project/quality.md)
   * [Planejamento](product/planning.md)
   * [Roadmap](product/roadmap.md)
