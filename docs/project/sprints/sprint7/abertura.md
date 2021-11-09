@@ -41,8 +41,8 @@
 | ------------------- | ---------------- | --------- | -------------- |
 | ```US22 - Eu, como usuário, desejo acessar uma aba específica para busca avançada``` | ```Miguel Alves``` | ```2``` | Sim |
 | ```US02 - Eu, como usuário, desejo selecionar filtros de busca.``` | ```Miguel Alves``` | ```13``` | Sim |
-| ```US06 - Eu, como usuário, desejo exportar a minha pesquisa``` | ```Lude Ribeiro, Lucas Gomes de Oliveira``` | ```13``` | 0 |
-| ```US18 - Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados``` | ```Lucas Maciel e Lucas Silva``` | ```5``` | 0 |
+| ```US06 - Eu, como usuário, desejo exportar a minha pesquisa``` | ```Lude Ribeiro, Lucas Gomes de Oliveira``` | ```13``` |  |
+| ```US18 - Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados``` | ```Lucas Maciel e Lucas Silva``` | ```5``` |  |
 | ```US25 - Eu, como administrador, gostaria de monitorar o status de execução dos scrapers``` | ```Miguel Alves``` | ```8``` | Sim |
 | ```Implementação do Jupiter Notebook de Analitics``` | ```Lude Ribeiro, Julio Litwin``` |  |  |
 
