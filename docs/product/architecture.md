@@ -162,7 +162,7 @@ Também tem-se o banco dos crawlers, onde são armazenadas informações da font
 
 Um pipeline de DevOps consiste em um conjunto de processos e ferramentas automatizados que permitem que desenvolvedores e profissionais de operações colaborem na construção e implantação de código para diferentes ambientes e estágios da produção de um software.
 
-![PipelineDevOps](https://i.imgur.com/OTI0REE.png)
+![PipelineDevOps](https://i.imgur.com/J8Tvj1f.png)
 
 ## 7. Referências
 * RASCHKA, Sebastian; MIRJALILI, Vahid. Python Machine Learning: machine learning and deep learning with python, scikit-learn, and tensorflow 2, third edition. 3. ed. Shangai: International Journal Of Knowledge-Based Organizations, 2021. 770 p.
