@@ -1,4 +1,4 @@
-# Fechamento da Sprint 07
+# Fechamento da Sprint 08
 
 |    Data    | Versão |          Descrição           |                 Autor(es)                  |
 | :--------: | :----: | :--------------------------: | :----------------------------------------: |
