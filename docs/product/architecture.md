@@ -45,7 +45,7 @@ O projeto PCTs consiste em uma aplicação, consumida na forma de um site, com o
 * Versão 1 (Planejada):
 ![ArchitecturalRepresentation](https://i.imgur.com/JJNYleS.png)
 
-* Versão Executada (Simplificada):
+* Versão Executada (Simplificada):  
 ![ArchitecturalRepresentationV2](https://i.imgur.com/JLX8izy.jpg)
 
 
