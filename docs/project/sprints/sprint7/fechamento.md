@@ -31,7 +31,7 @@ Participantes:
 | US18 - Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados | Lucas Maciel e Lucas Silva | 2 | Sim |  Não |
 | US25 - Eu, como administrador, gostaria de monitorar o status de execução dos scrapers | Miguel Alves | 13 | Não | Sim |
 | Implementação do Jupyter Notebook | Julio Litwin, Guilherme Mendes | | Não | Sim |
-| Continuação do tratamento do Metaflow | Caio Fernandes, Guilherme Mendes|  | Sim  | |
+| Continuação do tratamento do Metaflow | Caio Fernandes, Guilherme Mendes|  | Sim  | Não |
 
 * US02, US22 - Miguel Alves:
   * Não conseguiu desenvolver devido a problemas pessoais.
