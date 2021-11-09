@@ -5,6 +5,7 @@
 | 25/10/2021 |  1.0   | Criação do modelo de Abertura de Sprint | Lude Ribeiro |
 | 01/11/2021 |  2.0   | Correções de algumas informações pendentes | Julio Litwin |
 | 01/11/2021 |  2.1   | Correções de algumas informações pendentes | Julio Litwin |
+| 09/11/2021 |  2.2   | Correção de Pontuações das US's | [Lucas Gomes de Oliveira](http://github.com/LGomees) |
 
 # Abertura da Sprint 7
 
@@ -38,12 +39,12 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | ---------------- | --------- | -------------- |
-| ```US22 - Eu, como usuário, desejo acessar uma aba específica para busca avançada``` | ```Miguel Alves``` | ```Milestone``` | 0 |
-| ```US02 - Eu, como usuário, desejo selecionar filtros de busca.``` | ```Miguel Alves``` | ```Milestone``` | 0 |
-| ```US06 - Eu, como usuário, desejo exportar a minha pesquisa``` | ```Lude Ribeiro, Lucas Gomes de Oliveira``` | ```Milestone``` | 0 |
-| ```US18 - Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados``` | ```Lucas Maciel e Lucas Silva``` | ```Milestone``` | 0 |
-| ```US25 - Eu, como administrador, gostaria de monitorar o status de execução dos scrapers``` | ```Miguel Alves``` | ```Milestone``` | 0 |
-| ```Implementação do Jupiter Notebook de Analitics``` | ```Assignees``` | ```Milestone``` | 0 |
+| ```US22 - Eu, como usuário, desejo acessar uma aba específica para busca avançada``` | ```Miguel Alves``` | ```2``` | Sim |
+| ```US02 - Eu, como usuário, desejo selecionar filtros de busca.``` | ```Miguel Alves``` | ```13``` | Sim |
+| ```US06 - Eu, como usuário, desejo exportar a minha pesquisa``` | ```Lude Ribeiro, Lucas Gomes de Oliveira``` | ```13``` | 0 |
+| ```US18 - Eu, como administrador, gostaria de utilizar um crawler em um determinado site para realizar a 4ª alimentação da base de dados``` | ```Lucas Maciel e Lucas Silva``` | ```5``` | 0 |
+| ```US25 - Eu, como administrador, gostaria de monitorar o status de execução dos scrapers``` | ```Miguel Alves``` | ```8``` | Sim |
+| ```Implementação do Jupiter Notebook de Analitics``` | ```Lude Ribeiro, Julio Litwin``` |  |  |
 
 #### Pontuações PlanItPoker
 
