@@ -55,6 +55,10 @@
 
 ![](https://i.imgur.com/1asLIAs.png)
 
+#### Burndown de Riscos
+![Sprint7](https://user-images.githubusercontent.com/18038966/140945131-13aae488-5709-46b6-a6cc-12091c3098e0.png)
+![BurndownGraficoS7](https://user-images.githubusercontent.com/18038966/140945162-046ccde6-41ab-4d5e-9651-d314429ba155.png)
+
 
 ## Notas pós reunião
 
