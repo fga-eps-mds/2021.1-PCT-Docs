@@ -1,0 +1,4017 @@
+{
+  "paging": {
+    "pageIndex": 1,
+    "pageSize": 500,
+    "total": 66
+  },
+  "baseComponent": {
+    "id": "AXuunGxMPQA4TQfWRDBy",
+    "key": "fga-eps-mds_2021.1-PCTs-Scraper",
+    "name": "2021.1-PCTs-Scraper",
+    "qualifier": "TRK",
+    "measures": [
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      {
+        "metric": "functions",
+        "value": "65",
+        "bestValue": false
+      },
+      {
+        "metric": "security_rating",
+        "value": "1.0",
+        "bestValue": true
+      },
+      {
+        "metric": "files",
+        "value": "40",
+        "bestValue": false
+      },
+      {
+        "metric": "complexity",
+        "value": "109",
+        "bestValue": false
+      },
+      {
+        "metric": "ncloc",
+        "value": "1337",
+        "bestValue": false
+      },
+      {
+        "metric": "coverage",
+        "value": "60.3",
+        "bestValue": false
+      },
+      {
+        "metric": "reliability_rating",
+        "value": "1.0",
+        "bestValue": true
+      },
+      {
+        "metric": "comment_lines_density",
+        "value": "14.1",
+        "bestValue": false
+      }
+    ]
+  },
+  "components": [
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay9",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/migrations/0001_initial.py",
+      "name": "0001_initial.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/migrations/0001_initial.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "61",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.6",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj4",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/migrations/0001_initial.py",
+      "name": "0001_initial.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/migrations/0001_initial.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "6.3",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXz8F0PIqo4-eiJmVGzW",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/migrations/0002_auto_20211107_1713.py",
+      "name": "0002_auto_20211107_1713.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/migrations/0002_auto_20211107_1713.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "6.3",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ayu",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/pcts_crawlers_api/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/pcts_crawlers_api/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "50.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay2",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay8",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/migrations/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/migrations/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azD",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/tests/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_api/crawlers/tests/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj-",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj3",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/migrations/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/migrations/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj8",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/tests/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_api/keywords/tests/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azb",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azR",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azO",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/tests/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/tests/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azL",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/tests/responses/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/tests/responses/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azW",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/spiders/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/spiders/__init__.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay4",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/admin.py",
+      "name": "admin.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/admin.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj6",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/admin.py",
+      "name": "admin.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/admin.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay_",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/apps.py",
+      "name": "apps.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/apps.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDkC",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/apps.py",
+      "name": "apps.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/apps.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ayy",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/pcts_crawlers_api/asgi.py",
+      "name": "asgi.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/pcts_crawlers_api/asgi.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "66.7",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ayx",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/pcts_crawlers_api/celery.py",
+      "name": "celery.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/pcts_crawlers_api/celery.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "17",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "82.4",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "10.5",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azT",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/utils/checksum.py",
+      "name": "checksum.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/utils/checksum.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azc",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/crawler_executor.py",
+      "name": "crawler_executor.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/crawler_executor.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "62",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.6",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azI",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers",
+      "name": "crawlers",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/crawlers",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "47",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "666",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "72.2",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.8",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay5",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/fixtures/crawlers.json",
+      "name": "crawlers.json",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/fixtures/crawlers.json",
+      "language": "json",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azA",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/management/commands/ensure_adminuser.py",
+      "name": "ensure_adminuser.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/management/commands/ensure_adminuser.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay6",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/fixtures",
+      "name": "fixtures",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/crawlers/fixtures",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDkA",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/fixtures",
+      "name": "fixtures",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/keywords/fixtures",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azV",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/spiders/generic_crawler.py",
+      "name": "generic_crawler.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/spiders/generic_crawler.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "144",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "75.3",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "19.6",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azS",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/items.py",
+      "name": "items.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/items.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "87.5",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "38.5",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDkE",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords",
+      "name": "keywords",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/keywords",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "72",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "98.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "7.7",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj_",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/fixtures/keywords.json",
+      "name": "keywords.json",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/fixtures/keywords.json",
+      "language": "json",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azJ",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/manage.py",
+      "name": "manage.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/manage.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "83.3",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "16.7",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azB",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/management/commands",
+      "name": "management/commands",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/crawlers/management/commands",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "14",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azQ",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/middlewares.py",
+      "name": "middlewares.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/middlewares.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "56.4",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay-",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/migrations",
+      "name": "migrations",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/crawlers/migrations",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "76",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.6",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj5",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/migrations",
+      "name": "migrations",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/keywords/migrations",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "15",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "6.3",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azG",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/models.py",
+      "name": "models.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/models.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "132",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "94.3",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDkB",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/models.py",
+      "name": "models.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/models.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "83.3",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_aza",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers",
+      "name": "pcts_crawlers",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_scripts/pcts_crawlers",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "33",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "8",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "333",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "33.2",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "29.0",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azK",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api",
+      "name": "pcts_crawlers_api",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "31",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "58",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "942",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "77.4",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "8.0",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay0",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/pcts_crawlers_api",
+      "name": "pcts_crawlers_api",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/pcts_crawlers_api",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "6",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "5",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "189",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "84.5",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "22.2",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azd",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts",
+      "name": "pcts_crawlers_scripts",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_scripts",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "34",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "10",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "51",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "395",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "28.8",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "25.8",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azZ",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/pipelines.py",
+      "name": "pipelines.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/pipelines.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "108",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "4.4",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azN",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/tests/responses",
+      "name": "responses",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/tests/responses",
+      "language": null,
+      "measures": [
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azM",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/tests/responses/responses.py",
+      "name": "responses.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/tests/responses/responses.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay7",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/serializers.py",
+      "name": "serializers.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/serializers.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "13",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "122",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj1",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/serializers.py",
+      "name": "serializers.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/serializers.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "20",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ayv",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/pcts_crawlers_api/settings.py",
+      "name": "settings.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/pcts_crawlers_api/settings.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "130",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "97.5",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "20.7",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azY",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/settings.py",
+      "name": "settings.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/settings.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "30",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "61.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azX",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/spiders",
+      "name": "spiders",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/spiders",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "11",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "2",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "23",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "144",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "75.3",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "19.6",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay3",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/tasks.py",
+      "name": "tasks.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/tasks.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "24",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "247",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "48.2",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "3.9",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXz8kFAsGvfvSmRLRbYk",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/tests/test_crawlers_endpoint.py",
+      "name": "test_crawlers_endpoint.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_api/crawlers/tests/test_crawlers_endpoint.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azC",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/tests/test_crawlers_model.py",
+      "name": "test_crawlers_model.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_api/crawlers/tests/test_crawlers_model.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDkF",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/tests/test_generic_crawler.py",
+      "name": "test_generic_crawler.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/tests/test_generic_crawler.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXz8kFAsGvfvSmRLRbYj",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/tests/test_keyword_endpoint.py",
+      "name": "test_keyword_endpoint.py",
+      "qualifier": "UTS",
+      "path": "pcts_crawlers_api/keywords/tests/test_keyword_endpoint.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azF",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/tests",
+      "name": "tests",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/crawlers/tests",
+      "language": null,
+      "measures": [
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj9",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/tests",
+      "name": "tests",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_api/keywords/tests",
+      "language": null,
+      "measures": [
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azP",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/tests",
+      "name": "tests",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/tests",
+      "language": null,
+      "measures": [
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ayw",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/pcts_crawlers_api/urls.py",
+      "name": "urls.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/pcts_crawlers_api/urls.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "32",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "94.1",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ay1",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/urls.py",
+      "name": "urls.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/urls.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "21",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "4.5",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDkD",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/urls.py",
+      "name": "urls.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/urls.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "10.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azU",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_scripts/pcts_crawlers/utils",
+      "name": "utils",
+      "qualifier": "DIR",
+      "path": "pcts_crawlers_scripts/pcts_crawlers/utils",
+      "language": null,
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "functions",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "9",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_azH",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/crawlers/views.py",
+      "name": "views.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/crawlers/views.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "functions",
+          "value": "3",
+          "bestValue": false
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "complexity",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "49",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "91.5",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "10.9",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXzdET50ebgT_A0tHDj2",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/keywords/views.py",
+      "name": "views.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/keywords/views.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "12",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "25.0",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "id": "AXy6sj2hbAsVBN9l_ayz",
+      "key": "fga-eps-mds_2021.1-PCTs-Scraper:pcts_crawlers_api/pcts_crawlers_api/wsgi.py",
+      "name": "wsgi.py",
+      "qualifier": "FIL",
+      "path": "pcts_crawlers_api/pcts_crawlers_api/wsgi.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "complexity",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "functions",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "ncloc",
+          "value": "4",
+          "bestValue": false
+        },
+        {
+          "metric": "coverage",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "reliability_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "security_rating",
+          "value": "1.0",
+          "bestValue": true
+        },
+        {
+          "metric": "comment_lines_density",
+          "value": "66.7",
+          "bestValue": false
+        },
+        {
+          "metric": "files",
+          "value": "1",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "0",
+          "bestValue": false
+        },
+        {
+          "metric": "test_execution_time",
+          "value": "0",
+          "bestValue": false
+        }
+      ]
+    }
+  ]
+}
